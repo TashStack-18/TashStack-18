@@ -1,4 +1,4 @@
-name: Update GitHub Streak Stats
+name: Update Streak Stats
 
 on:
   schedule:
@@ -19,8 +19,21 @@ jobs:
       - name: Generate Streak Stats
         uses: zients/github-readme-streak-stats@v2
         with:
-          user: TashStack-18
-          output: assets/streak.svg
-          card_width: 495
-          card_height: 195
-          disable_animations: true
+          options: user=TashStack-18&theme=dark&disable_animations=true&background=0d1117&ring=d946ef&fire=f472b6&currStreakLabel=d946ef&currStreakNum=e5e7eb&sideLabels=e5e7eb&sideNums=e5e7eb&dates=9ca3af&hide_border=true&card_width=495&card_height=195
+          path: profile/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit Streak Stats
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add profile/streak.svg
+
+          if git diff --cached --quiet -- profile/streak.svg; then
+            echo "No streak SVG changes to commit."
+            exit 0
+          fi
+
+          git commit -m "Update streak stats"
+          git push
