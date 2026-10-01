@@ -12,7 +12,7 @@
 
 <img align="right" src="./assets/avatar.png" width="190" alt="Tashvi Avatar">
 
-<div style="padding-top: 35px;">
+<br>
 
 I'm Tashvi Adhlakha, a second-year B.Tech CSE student specializing in **AI & ML**, with a strong interest in AI, software development, and creative problem-solving.
 
@@ -22,12 +22,11 @@ I also enjoy **presentation design and visual communication**, creating clear an
 
 **2nd-year B.Tech CSE (AI & ML) student @ Jain University**
 
-</div>
-
 <br clear="right">
 
-<br>
----
+<hr>
+
+## 🛠️ Tech Stack
 
 <!-- ================= TECH STACK ================= -->
 
@@ -182,14 +181,13 @@ alt="Most Used Languages"
 ---
 
 <!-- ================= CONNECT ================= -->
-
 ## 🤝 Let's Connect
 
 <p align="left">
 
 <a href="https://www.linkedin.com/in/tashvi-adhlkha-39a4a6381">
   <img
-    src="https://img.shields.io/badge/LinkedIn-Tashvi_Adhlakha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    src="https://img.shields.io/badge/LinkedIn-Tashvi_Adhlakha-6B21A8?style=for-the-badge&logo=linkedin&logoColor=F5D0FE&labelColor=1A1025"
     alt="LinkedIn"
   />
 </a>
@@ -198,12 +196,14 @@ alt="Most Used Languages"
 
 <a href="mailto:adhlakhatashvi@gmail.com">
   <img
-    src="https://img.shields.io/badge/Email-adhlakhatashvi%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    src="https://img.shields.io/badge/Email-adhlakhatashvi%40gmail.com-C026D3?style=for-the-badge&logo=gmail&logoColor=FCE7F3&labelColor=1A1025"
     alt="Email"
   />
 </a>
 
 </p>
+
+<br>
 
 <br>
 
