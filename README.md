@@ -21,15 +21,11 @@
 
 <td width="65%" valign="middle">
 
-## 👋 About Me
+I'm Tashvi Adhlakha, passionate about AI, software development, and creative problem-solving. I enjoy building projects, exploring emerging technologies, and turning ideas into practical solutions.
 
-<img align="right" src="./assets/avatar.png" width="230" alt="Tashvi Avatar">
+I also enjoy presentation design and visual communication, creating clear and engaging presentations that communicate ideas effectively.
 
-I'm Tashvi Adhlakha, a **second-year B.Tech Computer Science and Engineering student specializing in Artificial Intelligence and Machine Learning**.
-
-I'm passionate about **AI, technology, software development, and creative problem-solving**. I enjoy building projects, participating in hackathons, exploring emerging technologies, and turning ideas into practical solutions.
-
-I also enjoy **presentation design and visual communication**, particularly creating clear, engaging presentations that effectively communicate ideas.
+**2nd-year B.Tech CSE (AI & ML) student @ Jain University**
 
 </td>
 
@@ -39,9 +35,6 @@ I also enjoy **presentation design and visual communication**, particularly crea
 
 </td>
 
-</tr>
-</table>
----
 
 <!-- ========================================================= -->
 <!--                       TECH STACK                          -->
@@ -194,9 +187,9 @@ A personal AI journaling project created for the <b>Build with APAC GDG Challeng
 <td width="33%" align="center">
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=TashStack-18&show_icons=true&hide_rank=true&hide=commits&bg_color=0d1117&title_color=d946ef&icon_color=c026d3&text_color=e5e7eb&hide_border=true"
-width="100%"
-alt="GitHub Stats"
+  src="https://github-readme-stats.vercel.app/api?username=TashStack-18&show_icons=true&hide_rank=true&hide_border=true&bg_color=0d1117&title_color=d946ef&icon_color=c026d3&text_color=e5e7eb"
+  width="100%"
+  alt="GitHub Stats"
 />
 
 </td>
