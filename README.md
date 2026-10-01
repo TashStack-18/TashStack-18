@@ -43,18 +43,56 @@ I also enjoy **presentation design and visual communication**, creating clear an
 
 <!-- ================= PROJECTS ================= -->
 
-## 🚀 Things I've Built
+## 🛠️ Things I Built
 
-| Project | Description |
-|---|---|
-| **Dishaara** | AI-powered tourism platform focused on safer, smarter, and more personalized travel experiences. **AI · Tourism · Safety · Hackathon** |
-| **Nexora** | AI-powered learning platform designed around adaptive and personalized learning. **AI · Education · LLMs** |
-| **ChangeRehearsal** | IBM Bob hackathon project focused on AI-assisted development and creative software workflows. **AI · IBM Bob · Hackathon** |
-| **Personal Gemini Journal** | AI-powered journaling project built for the Build with APAC GDG Challenge. **Gemini · AI · GDG** |
+<table width="100%">
+<tr>
+<th width="25%" align="left">Project</th>
+<th width="50%" align="left">Description</th>
+<th width="25%" align="left">Tech / Focus</th>
+</tr>
+
+<tr>
+<td><strong>🧭 Dishaara</strong></td>
+<td>AI-powered tourism platform focused on safer, smarter and more personalized travel across India</td>
+<td>AI · Tourism · Safety · Maps · Hackathon</td>
+</tr>
+
+<tr>
+<td><strong>📚 Nexora</strong></td>
+<td>AI-powered adaptive learning platform designed to personalize learning for students</td>
+<td>AI · LLMs · Education · RAG</td>
+</tr>
+
+<tr>
+<td><strong>🤖 ChangeRehearsal</strong></td>
+<td>AI-assisted development project built to explore smarter software development workflows</td>
+<td>AI · IBM Bob · Hackathon</td>
+</tr>
+
+<tr>
+<td><strong>✨ Personal Gemini Journal</strong></td>
+<td>AI-powered personal journaling experience built as part of the APAC GDG Challenge</td>
+<td>Gemini · AI · GDG Challenge</td>
+</tr>
+
+<tr>
+<td><strong>🎓 Student Management System</strong></td>
+<td>Academic project for managing student information and basic records</td>
+<td>Java · MySQL</td>
+</tr>
+
+<tr>
+<td><strong>📅 Academic Timetable</strong></td>
+<td>Academic timetable project designed to organize schedules in a simple interface</td>
+<td>Java · UI Development</td>
+</tr>
+
+</table>
 
 <br>
 
----
+<hr>
 
 <!-- ================= HACKATHONS ================= -->
 
@@ -62,29 +100,51 @@ I also enjoy **presentation design and visual communication**, creating clear an
 
 <table width="100%">
 <tr>
-<th align="left">Hackathon / Experience</th>
-<th align="left">Type</th>
+<th width="30%" align="left">Hackathon / Experience</th>
+<th width="45%" align="left">What I Did</th>
+<th width="25%" align="left">Focus</th>
 </tr>
 
 <tr>
-<td>Smart India Hackathon</td>
-<td>Participant</td>
+<td><strong>🇮🇳 Smart India Hackathon</strong></td>
+<td>Worked on an AI-driven tourism solution addressing travel discovery, safety and accessibility</td>
+<td>AI · Tourism · Innovation</td>
 </tr>
 
 <tr>
-<td>IBM Bob 2.0 Hackathon</td>
-<td>Participant</td>
+<td><strong>🤖 IBM Bob Hackathon</strong></td>
+<td>Built ChangeRehearsal while exploring AI-assisted software development</td>
+<td>AI · Development</td>
 </tr>
 
 <tr>
-<td>Vivekananda Innovation Hackathon 2026</td>
-<td>Participant</td>
+<td><strong>⚡ IBM Bob 2.0 Hackathon</strong></td>
+<td>Participated in a second IBM Bob innovation challenge and explored AI-powered development workflows</td>
+<td>AI · Innovation</td>
 </tr>
 
+<tr>
+<td><strong>💡 Vivekananda Innovation Hackathon 2026</strong></td>
+<td>Participated in an innovation-focused hackathon and worked on technology-driven problem solving</td>
+<td>Innovation · Technology</td>
+</tr>
 
 <tr>
-<td>Build with APAC GDG Challenge</td>
-<td>Participant</td>
+<td><strong>🔥 Vibeathon</strong></td>
+<td>Participated in a collaborative hackathon focused on rapid idea-to-prototype development</td>
+<td>Prototyping · AI</td>
+</tr>
+
+<tr>
+<td><strong>🌐 Build with APAC GDG Challenge</strong></td>
+<td>Built Personal Gemini Journal as part of the APAC GDG Challenge</td>
+<td>Gemini · Generative AI</td>
+</tr>
+
+<tr>
+<td><strong>📣 Marketing Intern — Listaria</strong></td>
+<td>Worked on marketing-related tasks and gained practical experience in content and communication</td>
+<td>Marketing · Content · Communication</td>
 </tr>
 
 </table>
