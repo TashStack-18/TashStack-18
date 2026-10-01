@@ -160,8 +160,6 @@ I also enjoy **presentation design and visual communication**, creating clear an
 </tr>
 </table>
 
-<br>
-
 <hr>
 <!-- ================= GITHUB STATS ================= -->
 
