@@ -37,10 +37,7 @@ I also enjoy **presentation design and visual communication**, creating clear an
 </p>
 
 **Technologies:** Python · Java · C · Git · GitHub · VS Code · Next.js · NestJS · Gemini · Claude · Perplexity · Generative AI · RAG · Prompt Engineering · Google Colab · Canva · Antigravity IDE · Cursor
-
 <br>
-
----
 
 <!-- ================= PROJECTS ================= -->
 
