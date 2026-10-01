@@ -10,11 +10,13 @@
 
 ## 👋 About Me
 
-<img align="right" src="./assets/avatar.png" width="230" alt="Tashvi Avatar">
+<img align="right" src="./assets/avatar.png" width="250" alt="Tashvi Avatar">
 
-I'm Tashvi Adhlakha, passionate about AI, software development, and creative problem-solving. I enjoy building projects, exploring emerging technologies, and turning ideas into practical solutions.
+I'm Tashvi Adhlakha, passionate about **AI, software development, and creative problem-solving**. I enjoy building projects, exploring emerging technologies, and turning ideas into practical solutions.
 
-I also enjoy presentation design and visual communication, creating clear and engaging presentations that communicate ideas effectively.
+My interests include **Artificial Intelligence, Generative AI, and modern development tools**, and I enjoy learning through hands-on projects and hackathons.
+
+I also have a strong interest in **presentation design and visual communication**, creating clear, engaging presentations that make ideas easier to understand.
 
 **2nd-year B.Tech CSE (AI & ML) student @ Jain University**
 
