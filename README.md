@@ -54,8 +54,6 @@ I also enjoy **creating presentations, designing PPTs, and communicating ideas v
 
 ## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,c,git,github,vscode,nextjs,nestjs&theme=dark" />
 </p>
@@ -65,6 +63,8 @@ I also enjoy **creating presentations, designing PPTs, and communicating ideas v
 <!-- ========================================================= -->
 <!--                        PROJECTS                            -->
 <!-- ========================================================= -->
+
+
 
 ## 🚀 Things I've Built
 
