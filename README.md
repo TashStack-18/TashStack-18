@@ -52,68 +52,60 @@ Currently learning, experimenting, building, and trying to make every project a 
 <!--                       TECH STACK                          -->
 <!-- ========================================================= -->
 
-## 💻 Tech Stack
+## 🛠️ Tech Stack
 
 <table width="100%">
 <tr>
-<th>Category</th>
-<th>Technologies</th>
+
+<td width="50%" valign="top">
+
+### Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c&theme=dark" />
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+### AI & AI Tools
+
+<p>
+<img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="50" />
+<img src="https://cdn.simpleicons.org/claude/D97757" width="50" />
+<img src="https://cdn.simpleicons.org/perplexity/20B8CD" width="50" />
+<img src="https://cdn.simpleicons.org/ibm/FFFFFF" width="50" />
+</p>
+
+</td>
+
 </tr>
 
 <tr>
-<td><b>Programming</b></td>
-<td>
 
-<img src="https://cdn.simpleicons.org/python/3776AB" width="22" height="22" /> Python
-&nbsp; • &nbsp;
-<img src="https://cdn.simpleicons.org/openjdk/ED8B00" width="22" height="22" /> Java
-&nbsp; • &nbsp;
-<img src="https://cdn.simpleicons.org/c/00599C" width="22" height="22" /> C
+<td width="50%" valign="top">
 
-</td>
-</tr>
+### Development
 
-<tr>
-<td><b>AI & AI Tools</b></td>
-<td>
-
-<img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="22" height="22" /> Gemini
-&nbsp; • &nbsp;
-<img src="https://cdn.simpleicons.org/claude/D97757" width="22" height="22" /> Claude
-&nbsp; • &nbsp;
-<img src="https://cdn.simpleicons.org/perplexity/20B8CD" width="22" height="22" /> Perplexity
-&nbsp; • &nbsp;
-<img src="https://cdn.simpleicons.org/ibm/052FAD" width="22" height="22" /> IBM Bob
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,nextjs,nestjs&theme=dark" />
+</p>
 
 </td>
-</tr>
 
-<tr>
-<td><b>Development</b></td>
-<td>
+<td width="50%" valign="top">
 
-<img src="https://cdn.simpleicons.org/git/F05032" width="22" height="22" /> Git
-&nbsp; • &nbsp;
-<img src="https://cdn.simpleicons.org/github/FFFFFF" width="22" height="22" /> GitHub
-&nbsp; • &nbsp;
-<img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="22" height="22" /> VS Code
+### Tools
+
+<p>
+<img src="https://cdn.simpleicons.org/googlecolab/F9AB00" width="50" />
+<img src="https://cdn.simpleicons.org/canva/00C4CC" width="50" />
+</p>
 
 </td>
+
 </tr>
-
-<tr>
-<td><b>Tools</b></td>
-<td>
-
-<img src="https://cdn.simpleicons.org/googlecolab/F9AB00" width="22" height="22" /> Google Colab
-&nbsp; • &nbsp;
-⚡ Antigravity IDE
-&nbsp; • &nbsp;
-<img src="https://cdn.simpleicons.org/canva/00C4CC" width="22" height="22" /> Canva
-
-</td>
-</tr>
-
 </table>
 ---
 
