@@ -134,16 +134,14 @@ I also enjoy **presentation design and visual communication**, creating clear an
 
 ## 📚 Currently Learning
 
-<table align="center" width="90%">
+<table width="80%" align="center">
 <tr>
 
-<td width="48%" valign="top">
+<td width="50%" valign="top" align="center">
 
-<strong>AI & Machine Learning</strong>
+<p><strong>AI & Machine Learning</strong></p>
 
-<br><br>
-
-<table width="100%">
+<table width="90%" align="center">
 <tr><td>AI Fundamentals</td></tr>
 <tr><td>Machine Learning Concepts</td></tr>
 <tr><td>Generative AI & LLMs</td></tr>
@@ -152,15 +150,11 @@ I also enjoy **presentation design and visual communication**, creating clear an
 
 </td>
 
-<td width="4%"></td>
+<td width="50%" valign="top" align="center">
 
-<td width="48%" valign="top">
+<p><strong>Development & AI Tools</strong></p>
 
-<strong>Development & AI Tools</strong>
-
-<br><br>
-
-<table width="100%">
+<table width="90%" align="center">
 <tr><td>Full-Stack Development</td></tr>
 <tr><td>Python / Java / C Fundamentals</td></tr>
 <tr><td>Agentic AI</td></tr>
