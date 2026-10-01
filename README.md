@@ -21,28 +21,26 @@
 
 <td width="65%" valign="middle">
 
-<table width="100%">
-<tr>
+<h2>👋 About Me</h2>
 
-<td width="65%" valign="top">
-
-## 👋 About Me
-
+<p>
 I'm Tashvi Adhlakha, a second-year B.Tech CSE student specializing in AI & ML, passionate about technology, AI, and creative problem-solving.
+</p>
 
+<p>
 I enjoy building projects, participating in hackathons, exploring emerging technologies, and creating engaging presentations that communicate ideas effectively.
+</p>
 
 </td>
 
 <td width="35%" align="center" valign="middle">
 
-<img src="./assets/avatar.png" width="220px" />
+<img src="./assets/avatar.png" width="220" alt="Tashvi Avatar">
 
 </td>
 
 </tr>
 </table>
-
 ---
 
 <!-- ========================================================= -->
