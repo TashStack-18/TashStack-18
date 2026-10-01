@@ -21,7 +21,7 @@
 
 <td width="65%" valign="middle">
 
-## 👋 About Me
+## Hi! Tashvi here👋
 
 I'm a second-year CSE (AI & ML) student who enjoys building with technology,
 exploring AI, and turning ideas into creative projects.
