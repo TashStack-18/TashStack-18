@@ -12,7 +12,7 @@
 
 <img align="right" src="./assets/avatar.png" width="190" alt="Tashvi Avatar">
 
-
+<div style="padding-top: 35px;">
 
 I'm Tashvi Adhlakha, a second-year B.Tech CSE student specializing in **AI & ML**, with a strong interest in AI, software development, and creative problem-solving.
 
@@ -22,10 +22,11 @@ I also enjoy **presentation design and visual communication**, creating clear an
 
 **2nd-year B.Tech CSE (AI & ML) student @ Jain University**
 
+</div>
+
 <br clear="right">
 
 <br>
-
 ---
 
 <!-- ================= TECH STACK ================= -->
@@ -36,7 +37,9 @@ I also enjoy **presentation design and visual communication**, creating clear an
   <img src="https://skillicons.dev/icons?i=python,java,c,git,github,vscode,nextjs,nestjs&theme=dark" />
 </p>
 
-**Technologies:** Python · Java · C · Git · GitHub · VS Code · Next.js · NestJS · Gemini · Claude · Perplexity · Generative AI · RAG · Prompt Engineering · Google Colab · Canva · Antigravity IDE · Cursor
+---
+
+**AI/ML:** Python · Java · C · Git · GitHub · VS Code · Next.js · NestJS · Gemini · Claude · Perplexity · Generative AI · RAG · Prompt Engineering · Google Colab · Canva · Antigravity IDE · Cursor
 
 <br>
 ---
