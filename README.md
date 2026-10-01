@@ -142,7 +142,7 @@ I also enjoy **presentation design and visual communication**, creating clear an
 <table width="100%">
 <tr>
 
-<td width="50%" align="center">
+<td width="33%" align="center">
 
 <img
 src="https://github-readme-stats.vercel.app/api?username=TashStack-18&show_icons=true&hide_rank=true&hide_border=true&bg_color=0d1117&title_color=d946ef&icon_color=c026d3&text_color=e5e7eb"
@@ -152,7 +152,7 @@ alt="GitHub Stats"
 
 </td>
 
-<td width="50%" align="center">
+<td width="33%" align="center">
 
 <img
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=TashStack-18&layout=compact&hide_border=true&bg_color=0d1117&title_color=d946ef&text_color=e5e7eb"
@@ -162,12 +162,22 @@ alt="Most Used Languages"
 
 </td>
 
+<td width="34%" align="center">
+
+<img
+src="https://streak-stats.demolab.com/?user=TashStack-18&theme=dark&hide_border=true&background=0d1117&ring=d946ef&fire=f472b6&currStreakLabel=d946ef&currStreakNum=e5e7eb&sideLabels=e5e7eb&sideNums=e5e7eb&dates=9ca3af"
+width="100%"
+alt="GitHub Streak Stats"
+/>
+
+</td>
+
 </tr>
 </table>
 
 <br>
 
----
+<hr>
 
 <!-- ================= CONTRIBUTION SNAKE ================= -->
 
