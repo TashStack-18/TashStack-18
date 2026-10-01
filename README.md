@@ -21,21 +21,22 @@
 
 <td width="65%" valign="middle">
 
+<table width="100%">
+<tr>
+
+<td width="65%" valign="top">
+
 ## 👋 About Me
 
 I'm Tashvi Adhlakha, a second-year B.Tech CSE student specializing in AI & ML, passionate about technology, AI, and creative problem-solving.
 
-I enjoy building projects, participating in hackathons, exploring emerging technologies, and creating clear, engaging presentations that communicate ideas effectively.
+I enjoy building projects, participating in hackathons, exploring emerging technologies, and creating engaging presentations that communicate ideas effectively.
 
 </td>
 
-<td width="35%" align="center">
+<td width="35%" align="center" valign="middle">
 
-<img
-  src="./assets/avatar.png"
-  width="280"
-  alt="Tashvi Pixel Avatar"
-/>
+<img src="./assets/avatar.png" width="220px" />
 
 </td>
 
@@ -224,27 +225,21 @@ alt="Most Used Languages"
 ## 🐍 Contribution Journey
 
 <p align="center">
-
-<picture>
-
-<source
-  media="(prefers-color-scheme: dark)"
-  srcset="https://raw.githubusercontent.com/TashStack-18/TashStack-18/output/github-snake-dark.svg"
-/>
-
-<source
-  media="(prefers-color-scheme: light)"
-  srcset="https://raw.githubusercontent.com/TashStack-18/TashStack-18/output/github-snake.svg"
-/>
-
-<img
-  src="https://raw.githubusercontent.com/TashStack-18/TashStack-18/output/github-snake.svg"
-  alt="GitHub Contribution Snake"
-  width="95%"
-/>
-
-</picture>
-
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/TashStack-18/TashStack-18/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/TashStack-18/TashStack-18/output/github-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/TashStack-18/TashStack-18/output/github-snake.svg"
+      alt="GitHub Contribution Snake"
+      width="95%"
+    />
+  </picture>
 </p>
 
 ---
