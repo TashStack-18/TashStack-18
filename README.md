@@ -132,43 +132,43 @@ I also enjoy **presentation design and visual communication**, creating clear an
 
 <!-- ================= CURRENTLY LEARNING ================= -->
 
-### 📚 Currently Learning
+## 📚 Currently Learning
 
-<table align="center">
+<table align="center" width="90%">
 <tr>
-<td><strong>AI & Machine Learning</strong></td>
-</tr>
-<tr>
-<td>AI Fundamentals</td>
-</tr>
-<tr>
-<td>Machine Learning Concepts</td>
-</tr>
-<tr>
-<td>Generative AI & LLMs</td>
-</tr>
-<tr>
-<td>RAG Models</td>
-</tr>
+
+<td width="48%" valign="top">
+
+<strong>AI & Machine Learning</strong>
+
+<br><br>
+
+<table width="100%">
+<tr><td>AI Fundamentals</td></tr>
+<tr><td>Machine Learning Concepts</td></tr>
+<tr><td>Generative AI & LLMs</td></tr>
+<tr><td>RAG Models</td></tr>
 </table>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</td>
 
-<table align="center">
-<tr>
-<td><strong>Development & AI Tools</strong></td>
-</tr>
-<tr>
-<td>Full-Stack Development</td>
-</tr>
-<tr>
-<td>Python / Java / C Fundamentals</td>
-</tr>
-<tr>
-<td>Agentic AI</td>
-</tr>
-<tr>
-<td>AI-Assisted Development</td>
+<td width="4%"></td>
+
+<td width="48%" valign="top">
+
+<strong>Development & AI Tools</strong>
+
+<br><br>
+
+<table width="100%">
+<tr><td>Full-Stack Development</td></tr>
+<tr><td>Python / Java / C Fundamentals</td></tr>
+<tr><td>Agentic AI</td></tr>
+<tr><td>AI-Assisted Development</td></tr>
+</table>
+
+</td>
+
 </tr>
 </table>
 
