@@ -69,34 +69,84 @@ I'm still figuring out exactly where I want to go in tech, but I enjoy the proce
 
 ---
 
+---
+
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <div align="center">
 
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
 ### 💻 Programming
 
+<p>
 <img src="https://skillicons.dev/icons?i=python,java,c" />
+</p>
 
-<br><br>
+</td>
 
-### 🌐 Development & Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
-<img src="https://img.shields.io/badge/Antigravity_IDE-111111?style=for-the-badge&logo=visualstudiocode&logoColor=8B5CF6"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-
-<br><br>
+<td width="50%" valign="top">
 
 ### 🤖 AI & Productivity
 
+<p>
+
 <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+
+<br>
+
 <img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/IBM_Bob-161616?style=for-the-badge&logo=ibm&logoColor=white"/>
+
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🌐 Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🛠️ Tools
+
+<p>
+
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Antigravity_IDE-111111?style=for-the-badge&logo=visualstudiocode&logoColor=8B5CF6"/>
+
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+
+</p>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<img src="https://img.shields.io/badge/Always_Learning-FF4FA3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Building_%26_Experimenting-8B5CF6?style=for-the-badge"/>
 
 </div>
 
