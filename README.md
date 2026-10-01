@@ -134,7 +134,14 @@ I also enjoy **presentation design and visual communication**, creating clear an
 
 ## 📚 Currently Learning
 
-<table width="47%" align="left">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+
+<td width="20%" border="0"></td>
+
+<td width="28%" valign="top" border="0">
+
+<table width="100%">
 <tr>
 <td>
 
@@ -151,9 +158,13 @@ I also enjoy **presentation design and visual communication**, creating clear an
 </tr>
 </table>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</td>
 
-<table width="47%" align="right">
+<td width="4%" border="0"></td>
+
+<td width="28%" valign="top" border="0">
+
+<table width="100%">
 <tr>
 <td>
 
@@ -170,12 +181,16 @@ I also enjoy **presentation design and visual communication**, creating clear an
 </tr>
 </table>
 
-<br clear="all">
+</td>
+
+<td width="20%" border="0"></td>
+
+</tr>
+</table>
 
 <br>
 
 <hr>
-
 <!-- ================= GITHUB STATS ================= -->
 
 ## 📊 GitHub Stats
