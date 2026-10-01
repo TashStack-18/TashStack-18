@@ -134,59 +134,43 @@ I also enjoy **presentation design and visual communication**, creating clear an
 
 ## 📚 Currently Learning
 
-<table width="80%" align="center" border="0" frame="void" rules="none" cellspacing="0" cellpadding="0">
+<table width="500" align="left">
 <tr>
-
-<td width="3%" border="0"></td>
-
-<td width="45%" valign="top" border="0">
-
-<table width="100%">
+<td><strong>AI & Machine Learning</strong></td>
+</tr>
 <tr>
-<td>
-
-<p><strong>AI & Machine Learning</strong></p>
-
-<table width="100%">
-<tr><td>AI Fundamentals</td></tr>
-<tr><td>Machine Learning Concepts</td></tr>
-<tr><td>Generative AI & LLMs</td></tr>
-<tr><td>RAG Models</td></tr>
-</table>
-
-</td>
+<td>AI Fundamentals</td>
+</tr>
+<tr>
+<td>Machine Learning Concepts</td>
+</tr>
+<tr>
+<td>Generative AI & LLMs</td>
+</tr>
+<tr>
+<td>RAG Models</td>
 </tr>
 </table>
 
-</td>
-
-<td width="10%" border="0"></td>
-
-<td width="45%" valign="top" border="0">
-
-<table width="100%">
+<table width="500" align="right">
 <tr>
-<td>
-
-<p><strong>Development & AI Tools</strong></p>
-
-<table width="100%">
-<tr><td>Full-Stack Development</td></tr>
-<tr><td>Python / Java / C Fundamentals</td></tr>
-<tr><td>Agentic AI</td></tr>
-<tr><td>AI-Assisted Development</td></tr>
-</table>
-
-</td>
+<td><strong>Development & AI Tools</strong></td>
+</tr>
+<tr>
+<td>Full-Stack Development</td>
+</tr>
+<tr>
+<td>Python / Java / C Fundamentals</td>
+</tr>
+<tr>
+<td>Agentic AI</td>
+</tr>
+<tr>
+<td>AI-Assisted Development</td>
 </tr>
 </table>
 
-</td>
-
-<td width="3%" border="0"></td>
-
-</tr>
-</table>
+<br clear="all">
 
 <br>
 
