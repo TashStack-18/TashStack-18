@@ -134,12 +134,12 @@ I also enjoy **presentation design and visual communication**, creating clear an
 
 ## 📚 Currently Learning
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<table width="80%" align="center" border="0" frame="void" rules="none" cellspacing="0" cellpadding="0">
 <tr>
 
-<td width="20%" border="0"></td>
+<td width="3%" border="0"></td>
 
-<td width="28%" valign="top" border="0">
+<td width="45%" valign="top" border="0">
 
 <table width="100%">
 <tr>
@@ -160,9 +160,9 @@ I also enjoy **presentation design and visual communication**, creating clear an
 
 </td>
 
-<td width="4%" border="0"></td>
+<td width="10%" border="0"></td>
 
-<td width="28%" valign="top" border="0">
+<td width="45%" valign="top" border="0">
 
 <table width="100%">
 <tr>
@@ -183,7 +183,7 @@ I also enjoy **presentation design and visual communication**, creating clear an
 
 </td>
 
-<td width="20%" border="0"></td>
+<td width="3%" border="0"></td>
 
 </tr>
 </table>
