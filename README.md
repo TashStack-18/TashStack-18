@@ -76,12 +76,6 @@ I also enjoy **presentation design and visual communication**, creating clear an
 <td>Gemini · AI · GDG Challenge</td>
 </tr>
 
-<tr>
-<td><strong>📅 Academic Timetable</strong></td>
-<td>Academic timetable project designed to organize schedules in a simple interface</td>
-<td>Java · UI Development</td>
-</tr>
-
 </table>
 
 <br>
