@@ -191,21 +191,39 @@ A personal AI journaling project created for the <b>Build with APAC GDG Challeng
 <!--                    CURRENTLY LEARNING                      -->
 <!-- ========================================================= -->
 
-## 📖 Currently Learning
+## 📚 Currently Learning
+
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top">
 
 ### 🤖 AI & Machine Learning
 
-- AI Fundamentals
-- Machine Learning Concepts
-- Generative AI & LLMs
-- RAG Models
+| Learning |
+|---|
+| AI Fundamentals |
+| Machine Learning Concepts |
+| Generative AI & LLMs |
+| RAG Models |
+
+</td>
+
+<td width="50%" valign="top">
 
 ### 💻 Development & AI Tools
 
-- Full-Stack Development
-- Python / Java / C Fundamentals
-- Agentic AI
-- AI-Assisted Development
+| Learning |
+|---|
+| Full-Stack Development |
+| Python / Java / C Fundamentals |
+| Agentic AI |
+| AI-Assisted Development |
+
+</td>
+
+</tr>
+</table>
 
 ---
 
