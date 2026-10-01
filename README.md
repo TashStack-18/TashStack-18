@@ -16,10 +16,10 @@
 <!--                       ABOUT ME                            -->
 <!-- ========================================================= -->
 
-<table width="100%">
+<table width="100%" border="0">
 <tr>
 
-<td width="65%" valign="middle">
+<td width="65%" valign="middle" border="0">
 
 # Hey, I'm Tashvi 👋
 
@@ -33,7 +33,7 @@ Currently learning, experimenting, building, and trying to make every project a 
 
 </td>
 
-<td width="35%" align="center">
+<td width="35%" align="center" border="0">
 
 <img
   src="./assets/avatar.png"
@@ -54,28 +54,27 @@ Currently learning, experimenting, building, and trying to make every project a 
 
 ## 💻 Tech Stack
 
-<table width="100%">
-
+<table width="100%" border="0" cellspacing="0" cellpadding="12">
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" border="0">
 
 ### 🧑‍💻 Programming
 
-- Python
-- Java
-- C
+🐍 Python  
+☕ Java  
+💻 C
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" border="0">
 
 ### 🤖 AI & AI Tools
 
-- Gemini
-- Claude
-- Perplexity
-- IBM Bob
+✨ Gemini  
+🧠 Claude  
+🔎 Perplexity  
+🤖 IBM Bob
 
 </td>
 
@@ -83,28 +82,27 @@ Currently learning, experimenting, building, and trying to make every project a 
 
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" border="0">
 
 ### 🌐 Development
 
-- Git
-- GitHub
-- VS Code
+🔧 Git  
+🐙 GitHub  
+💻 VS Code
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" border="0">
 
 ### 🛠️ Tools
 
-- Google Colab
-- Antigravity IDE
-- Canva
+📓 Google Colab  
+⚡ Antigravity IDE  
+🎨 Canva
 
 </td>
 
 </tr>
-
 </table>
 
 ---
@@ -153,41 +151,36 @@ A personal AI journaling project created for the **Build with APAC GDG Challenge
 
 ## 🏆 Hackathons & Experiences
 
-<table width="100%">
+<table width="100%" border="0" cellspacing="0" cellpadding="8">
 
 <tr>
-<th width="10%"></th>
-<th align="left">Experience</th>
+<td width="8%" border="0">🏆</td>
+<td border="0"><b>Smart India Hackathon</b></td>
 </tr>
 
 <tr>
-<td align="center">🏆</td>
-<td><b>Smart India Hackathon</b></td>
+<td border="0">🤖</td>
+<td border="0"><b>IBM Bob Hackathon</b></td>
 </tr>
 
 <tr>
-<td align="center">🤖</td>
-<td><b>IBM Bob Hackathon</b></td>
+<td border="0">🤖</td>
+<td border="0"><b>IBM Bob 2.0 Hackathon</b></td>
 </tr>
 
 <tr>
-<td align="center">🤖</td>
-<td><b>IBM Bob 2.0 Hackathon</b></td>
+<td border="0">💡</td>
+<td border="0"><b>Vivekananda Innovation Hackathon 2026</b></td>
 </tr>
 
 <tr>
-<td align="center">💡</td>
-<td><b>Vivekananda Innovation Hackathon 2026</b></td>
+<td border="0">💡</td>
+<td border="0"><b>Vibeathon</b></td>
 </tr>
 
 <tr>
-<td align="center">💡</td>
-<td><b>Vibeathon</b></td>
-</tr>
-
-<tr>
-<td align="center">✨</td>
-<td><b>Build with APAC GDG Challenge</b></td>
+<td border="0">✨</td>
+<td border="0"><b>Build with APAC GDG Challenge</b></td>
 </tr>
 
 </table>
@@ -222,11 +215,10 @@ A personal AI journaling project created for the **Build with APAC GDG Challenge
 
 ## 📊 GitHub Analytics
 
-<table width="100%">
-
+<table width="100%" border="0" cellspacing="0" cellpadding="6">
 <tr>
 
-<td width="50%" align="center">
+<td width="50%" align="center" border="0">
 
 <img
   src="https://github-readme-stats.vercel.app/api?username=TashStack-18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=d946ef&icon_color=c026d3&text_color=e5e7eb"
@@ -236,7 +228,7 @@ A personal AI journaling project created for the **Build with APAC GDG Challenge
 
 </td>
 
-<td width="50%" align="center">
+<td width="50%" align="center" border="0">
 
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=TashStack-18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=d946ef&text_color=e5e7eb"
@@ -247,7 +239,6 @@ A personal AI journaling project created for the **Build with APAC GDG Challenge
 </td>
 
 </tr>
-
 </table>
 
 ---
