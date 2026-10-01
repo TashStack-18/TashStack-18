@@ -100,29 +100,27 @@ I also enjoy **presentation design and visual communication**, creating clear an
 <table width="100%">
 <tr>
 
-<td width="50%" valign="top">
+<td width="48%" valign="top">
 
 ### AI & Machine Learning
 
-| Learning |
-|---|
-| AI Fundamentals |
-| Machine Learning Concepts |
-| Generative AI & LLMs |
-| RAG Models |
+- AI Fundamentals
+- Machine Learning Concepts
+- Generative AI & LLMs
+- RAG Models
 
 </td>
 
-<td width="50%" valign="top">
+<td width="4%"></td>
+
+<td width="48%" valign="top">
 
 ### Development & AI Tools
 
-| Learning |
-|---|
-| Full-Stack Development |
-| Python / Java / C Fundamentals |
-| Agentic AI |
-| AI-Assisted Development |
+- Full-Stack Development
+- Python / Java / C Fundamentals
+- Agentic AI
+- AI-Assisted Development
 
 </td>
 
@@ -131,6 +129,7 @@ I also enjoy **presentation design and visual communication**, creating clear an
 
 <br>
 
+<hr>
 ---
 
 <!-- ================= GITHUB STATS ================= -->
@@ -202,26 +201,14 @@ alt="Most Used Languages"
 ## 🤝 Let's Connect
 
 <p align="left">
-
-<a href="https://www.linkedin.com/in/tashvi-adhlkha-39a4a6381">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-Tashvi_Adhlakha-6B21A8?style=for-the-badge&logo=linkedin&logoColor=F5D0FE&labelColor=1A1025"
-    alt="LinkedIn"
-  />
-</a>
-
-&nbsp;&nbsp;
-
-<a href="mailto:adhlakhatashvi@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Email-adhlakhatashvi%40gmail.com-C026D3?style=for-the-badge&logo=gmail&logoColor=FCE7F3&labelColor=1A1025"
-    alt="Email"
-  />
-</a>
-
+  <a href="https://www.linkedin.com/in/tashvi-adhlkha-39a4a6381">
+    <img src="https://img.shields.io/badge/LinkedIn-Tashvi_Adhlakha-6B21A8?style=for-the-badge&logo=linkedin&logoColor=F5D0FE&labelColor=1A1025" alt="LinkedIn">
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:adhlakhatashvi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-adhlakhatashvi%40gmail.com-C026D3?style=for-the-badge&logo=gmail&logoColor=FCE7F3&labelColor=1A1025" alt="Email">
+  </a>
 </p>
-
-<br>
 
 <br>
 
