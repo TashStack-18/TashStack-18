@@ -77,12 +77,6 @@ I also enjoy **presentation design and visual communication**, creating clear an
 </tr>
 
 <tr>
-<td><strong>🎓 Student Management System</strong></td>
-<td>Academic project for managing student information and basic records</td>
-<td>Java · MySQL</td>
-</tr>
-
-<tr>
 <td><strong>📅 Academic Timetable</strong></td>
 <td>Academic timetable project designed to organize schedules in a simple interface</td>
 <td>Java · UI Development</td>
@@ -111,11 +105,6 @@ I also enjoy **presentation design and visual communication**, creating clear an
 <td>AI · Tourism · Innovation</td>
 </tr>
 
-<tr>
-<td><strong>🤖 IBM Bob Hackathon</strong></td>
-<td>Built ChangeRehearsal while exploring AI-assisted software development</td>
-<td>AI · Development</td>
-</tr>
 
 <tr>
 <td><strong>⚡ IBM Bob 2.0 Hackathon</strong></td>
@@ -130,21 +119,9 @@ I also enjoy **presentation design and visual communication**, creating clear an
 </tr>
 
 <tr>
-<td><strong>🔥 Vibeathon</strong></td>
-<td>Participated in a collaborative hackathon focused on rapid idea-to-prototype development</td>
-<td>Prototyping · AI</td>
-</tr>
-
-<tr>
 <td><strong>🌐 Build with APAC GDG Challenge</strong></td>
 <td>Built Personal Gemini Journal as part of the APAC GDG Challenge</td>
 <td>Gemini · Generative AI</td>
-</tr>
-
-<tr>
-<td><strong>📣 Marketing Intern — Listaria</strong></td>
-<td>Worked on marketing-related tasks and gained practical experience in content and communication</td>
-<td>Marketing · Content · Communication</td>
 </tr>
 
 </table>
