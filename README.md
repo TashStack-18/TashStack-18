@@ -164,10 +164,12 @@ alt="Most Used Languages"
 
 <td width="34%" align="center">
 
+<td width="34%" align="center">
+
 <img
-src="https://streak-stats.demolab.com/?user=TashStack-18&theme=dark&hide_border=true&background=0d1117&ring=d946ef&fire=f472b6&currStreakLabel=d946ef&currStreakNum=e5e7eb&sideLabels=e5e7eb&sideNums=e5e7eb&dates=9ca3af"
-width="100%"
-alt="GitHub Streak Stats"
+  src="./profile/streak.svg"
+  width="100%"
+  alt="GitHub Streak Stats"
 />
 
 </td>
