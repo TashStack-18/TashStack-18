@@ -1,25 +1,16 @@
-<!-- ========================================================= -->
-<!--                         HEADER                            -->
-<!-- ========================================================= -->
+<!-- ================= HEADER ================= -->
 
 <p align="center">
-  <img
-    src="./assets/header.png"
-    width="100%"
-    alt="Tashvi's Header"
-  />
+  <img src="./assets/header.png" width="100%" alt="Tashvi Adhlakha GitHub Header">
 </p>
 
 <br>
 
-<!-- ========================================================= -->
-<!--                       ABOUT ME                            -->
-<!-- ========================================================= -->
+<!-- ================= ABOUT ME ================= -->
 
-<table width="100%">
-<tr>
+## 👋 About Me
 
-<td width="65%" valign="middle">
+<img align="right" src="./assets/avatar.png" width="230" alt="Tashvi Avatar">
 
 I'm Tashvi Adhlakha, passionate about AI, software development, and creative problem-solving. I enjoy building projects, exploring emerging technologies, and turning ideas into practical solutions.
 
@@ -27,18 +18,11 @@ I also enjoy presentation design and visual communication, creating clear and en
 
 **2nd-year B.Tech CSE (AI & ML) student @ Jain University**
 
-</td>
+<br clear="right">
 
-<td width="35%" align="center" valign="middle">
+---
 
-<img src="./assets/avatar.png" width="220" alt="Tashvi Avatar">
-
-</td>
-
-
-<!-- ========================================================= -->
-<!--                       TECH STACK                          -->
-<!-- ========================================================= -->
+<!-- ================= TECH STACK ================= -->
 
 ## 🛠️ Tech Stack
 
@@ -48,96 +32,37 @@ I also enjoy presentation design and visual communication, creating clear and en
 
 **Technologies:** Python · Java · C · Git · GitHub · VS Code · Next.js · NestJS · Gemini · Claude · Perplexity · Generative AI · RAG · Prompt Engineering · Google Colab · Canva · Antigravity IDE · Cursor
 
-<!-- ========================================================= -->
-<!--                        PROJECTS                            -->
-<!-- ========================================================= -->
+---
 
-
+<!-- ================= PROJECTS ================= -->
 
 ## 🚀 Things I've Built
 
-<table width="100%" cellspacing="0" cellpadding="12">
-
-<tr>
-<th width="25%" align="left">Project</th>
-<th align="left">Description</th>
-</tr>
-
-<tr>
-<td><b>🧭 Dishaara</b></td>
-<td>
-<b>AI-powered tourism platform</b> designed to make travel safer, smarter, and more personalized.
-<br><br>
-<code>AI</code> <code>Tourism</code> <code>Safety</code> <code>Hackathon</code>
-</td>
-</tr>
-
-<tr>
-<td><b>📚 Nexora</b></td>
-<td>
-<b>AI-powered learning platform</b> focused on adaptive and personalized learning experiences.
-<br><br>
-<code>AI</code> <code>Education</code> <code>LLMs</code>
-</td>
-</tr>
-
-<tr>
-<td><b>🤖 ChangeRehearsal</b></td>
-<td>
-An <b>IBM Bob Hackathon</b> project exploring AI-assisted development and creative problem solving.
-<br><br>
-<code>AI</code> <code>IBM Bob</code> <code>Hackathon</code>
-</td>
-</tr>
-
-<tr>
-<td><b>✨ Personal Gemini Journal</b></td>
-<td>
-A personal AI journaling project created for the <b>Build with APAC GDG Challenge</b>.
-<br><br>
-<code>Gemini</code> <code>AI</code> <code>GDG</code>
-</td>
-</tr>
-
-</table>
+| Project | Description |
+|---|---|
+| **Dishaara** | AI-powered tourism platform focused on safer, smarter, and more personalized travel experiences across India. **AI · Tourism · Safety · Hackathon** |
+| **Nexora** | AI-powered learning platform designed around adaptive and personalized learning experiences. **AI · Education · LLMs** |
+| **ChangeRehearsal** | IBM Bob hackathon project exploring AI-assisted development and creative software workflows. **AI · IBM Bob · Hackathon** |
+| **Personal Gemini Journal** | AI-powered journaling project built as part of the Build with APAC GDG Challenge. **Gemini · AI · GDG** |
 
 ---
 
-<!-- ========================================================= -->
-<!--                  HACKATHONS & EXPERIENCES                  -->
-<!-- ========================================================= -->
+<!-- ================= HACKATHONS ================= -->
 
 ## 🏆 Hackathons & Experiences
 
-<table width="100%" cellspacing="0" cellpadding="10">
-
-<tr>
-<td width="8%" align="center">🏆</td>
-<td><b>Smart India Hackathon</b></td>
-</tr>
-
-<tr>
-<td align="center">🤖</td>
-<td><b>IBM Bob 2.0 Hackathon</b></td>
-</tr>
-
-<tr>
-<td align="center">💡</td>
-<td><b>Vivekananda Innovation Hackathon 2026</b></td>
-</tr>
-
-<tr>
-<td align="center">✨</td>
-<td><b>Build with APAC GDG Challenge</b></td>
-</tr>
-
-</table>
+| Experience |
+|---|
+| Smart India Hackathon |
+| IBM Bob Hackathon |
+| IBM Bob 2.0 Hackathon |
+| Vivekananda Innovation Hackathon 2026 |
+| Vibeathon |
+| Build with APAC GDG Challenge |
 
 ---
 
-<!-- ========================================================= -->
-<!--                    CURRENTLY LEARNING                      -->
-<!-- ========================================================= -->
+<!-- ================= CURRENTLY LEARNING ================= -->
 
 ## 📚 Currently Learning
 
@@ -146,7 +71,7 @@ A personal AI journaling project created for the <b>Build with APAC GDG Challeng
 
 <td width="50%" valign="top">
 
-###🤖 AI & Machine Learning
+### AI & Machine Learning
 
 | Learning |
 |---|
@@ -159,7 +84,7 @@ A personal AI journaling project created for the <b>Build with APAC GDG Challeng
 
 <td width="50%" valign="top">
 
-###💻 Development & AI Tools
+### Development & AI Tools
 
 | Learning |
 |---|
@@ -175,26 +100,24 @@ A personal AI journaling project created for the <b>Build with APAC GDG Challeng
 
 ---
 
-<!-- ========================================================= -->
-<!--                    GITHUB ANALYTICS                        -->
-<!-- ========================================================= -->
+<!-- ================= GITHUB STATS ================= -->
 
 ## 📊 GitHub Stats
 
 <table width="100%">
 <tr>
 
-<td width="33%" align="center">
+<td width="50%" align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=TashStack-18&show_icons=true&hide_rank=true&hide_border=true&bg_color=0d1117&title_color=d946ef&icon_color=c026d3&text_color=e5e7eb"
-  width="100%"
-  alt="GitHub Stats"
+src="https://github-readme-stats.vercel.app/api?username=TashStack-18&show_icons=true&hide_rank=true&hide_border=true&bg_color=0d1117&title_color=d946ef&icon_color=c026d3&text_color=e5e7eb"
+width="100%"
+alt="GitHub Stats"
 />
 
 </td>
 
-<td width="33%" align="center">
+<td width="50%" align="center">
 
 <img
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=TashStack-18&layout=compact&hide_border=true&bg_color=0d1117&title_color=d946ef&text_color=e5e7eb"
@@ -209,66 +132,58 @@ alt="Most Used Languages"
 
 ---
 
-<!-- ========================================================= -->
-<!--                  CONTRIBUTION SNAKE                        -->
-<!-- ========================================================= -->
+<!-- ================= CONTRIBUTION SNAKE ================= -->
 
 ## 🐍 Contribution Journey
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/TashStack-18/TashStack-18/output/github-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/TashStack-18/TashStack-18/output/github-snake.svg"
-    />
-    <img
-      src="https://raw.githubusercontent.com/TashStack-18/TashStack-18/output/github-snake.svg"
-      alt="GitHub Contribution Snake"
-      width="95%"
-    />
-  </picture>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/TashStack-18/TashStack-18/output/github-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/TashStack-18/TashStack-18/output/github-snake.svg"
+  />
+
+  <img
+    src="https://raw.githubusercontent.com/TashStack-18/TashStack-18/output/github-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="95%"
+  />
+</picture>
+
 </p>
 
 ---
 
-<!-- ========================================================= -->
-<!--                       CONNECT                              -->
-<!-- ========================================================= -->
+<!-- ================= CONNECT ================= -->
 
-## 🌐 Let's Connect
+## 🤝 Let's Connect
 
-<p align="center">
+<p align="left">
 
 <a href="www.linkedin.com/in/tashvi-adhlkha-39a4a6381">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-d946ef?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
+  <img src="https://skillicons.dev/icons?i=linkedin" width="48" />
 </a>
 
+&nbsp;&nbsp;
+
 <a href="mailto:adhlakhatashvi@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Email-c026d3?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="Email"
-  />
+  <img src="https://skillicons.dev/icons?i=gmail" width="48" />
 </a>
 
 </p>
 
 ---
 
-<!-- ========================================================= -->
-<!--                         FOOTER                             -->
-<!-- ========================================================= -->
-
 <p align="center">
 
-### Still learning. Still building. Still curious. ✨
+**Still learning. Still building. Still curious. ✨**
 
-**Let's build something interesting.**
+Let's build something interesting.
 
 </p>
