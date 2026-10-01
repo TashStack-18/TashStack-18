@@ -21,11 +21,11 @@
 
 <td width="65%" valign="middle">
 
-## Hi!👋
+## Hi!
 
-I'm Tashvi Adhlakha, a second-year B.Tech Computer Science and Engineering student specializing in Artificial Intelligence and Machine Learning. I have a strong interest in technology and enjoy continuously developing my skills through hands-on projects, hackathons, and exploring emerging tools and technologies.
+I'm Tashvi Adhlakha, a second-year B.Tech Computer Science and Engineering student specializing in Artificial Intelligence and Machine Learning. I'm passionate about technology and enjoy learning by building projects, participating in hackathons, and experimenting with new tools and ideas.
 
-My interests include Artificial Intelligence, Generative AI, software development, and creative problem-solving, with a focus on transforming ideas into practical and meaningful solutions. Alongside technical development, I have a strong interest in presentation design and visual communication, and enjoy creating structured, engaging presentations that communicate ideas effectively.
+My interests include AI, Generative AI, software development, and creative problem-solving. I also enjoy presentation design and visual communication, particularly turning ideas into clear, engaging, and well-designed presentations.
 
 </td>
 
