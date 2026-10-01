@@ -56,58 +56,39 @@ Currently learning, experimenting, building, and trying to make every project a 
 
 <table width="100%">
 <tr>
-
-<td width="50%" valign="top">
-
-### Programming
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c&theme=dark" />
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-### AI & AI Tools
-
-<p>
-<img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="50" />
-<img src="https://cdn.simpleicons.org/claude/D97757" width="50" />
-<img src="https://cdn.simpleicons.org/perplexity/20B8CD" width="50" />
-<img src="https://cdn.simpleicons.org/ibm/FFFFFF" width="50" />
-</p>
-
-</td>
-
+<th>Category</th>
+<th>Technologies</th>
 </tr>
 
 <tr>
-
-<td width="50%" valign="top">
-
-### Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,nextjs,nestjs&theme=dark" />
-</p>
-
+<td><b>Programming</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=python,java,c&theme=dark" />
 </td>
-
-<td width="50%" valign="top">
-
-### Tools
-
-<p>
-<img src="https://cdn.simpleicons.org/googlecolab/F9AB00" width="50" />
-<img src="https://cdn.simpleicons.org/canva/00C4CC" width="50" />
-</p>
-
-</td>
-
 </tr>
+
+<tr>
+<td><b>AI & AI Tools</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" />
+</td>
+</tr>
+
+<tr>
+<td><b>Development</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,nextjs,nestjs&theme=dark" />
+</td>
+</tr>
+
+<tr>
+<td><b>Tools</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=googlecolab,canva&theme=dark" />
+</td>
+</tr>
+
 </table>
----
 
 <!-- ========================================================= -->
 <!--                        PROJECTS                            -->
@@ -205,7 +186,7 @@ A personal AI journaling project created for the <b>Build with APAC GDG Challeng
 
 <td width="50%" valign="top">
 
-### 🤖 AI & Machine Learning
+###🤖 AI & Machine Learning
 
 | Learning |
 |---|
@@ -218,7 +199,7 @@ A personal AI journaling project created for the <b>Build with APAC GDG Challeng
 
 <td width="50%" valign="top">
 
-### 💻 Development & AI Tools
+###💻 Development & AI Tools
 
 | Learning |
 |---|
