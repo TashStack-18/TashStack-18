@@ -12,6 +12,8 @@
 
 <img align="right" src="./assets/avatar.png" width="190" alt="Tashvi Avatar">
 
+
+
 I'm Tashvi Adhlakha, a second-year B.Tech CSE student specializing in **AI & ML**, with a strong interest in AI, software development, and creative problem-solving.
 
 I enjoy building projects, participating in hackathons, exploring emerging technologies, and turning ideas into practical solutions.
