@@ -14,13 +14,13 @@
 
 I'm Tashvi Adhlakha, passionate about **AI, software development, and creative problem-solving**. I enjoy building projects, exploring emerging technologies, and turning ideas into practical solutions.
 
-My interests include **Artificial Intelligence, Generative AI, and modern development tools**, and I enjoy learning through hands-on projects and hackathons.
-
-I also have a strong interest in **presentation design and visual communication**, creating clear, engaging presentations that make ideas easier to understand.
+I also enjoy **presentation design and visual communication**, creating clear and engaging presentations that communicate ideas effectively.
 
 **2nd-year B.Tech CSE (AI & ML) student @ Jain University**
 
 <br clear="right">
+
+<br>
 
 ---
 
@@ -34,6 +34,8 @@ I also have a strong interest in **presentation design and visual communication*
 
 **Technologies:** Python · Java · C · Git · GitHub · VS Code · Next.js · NestJS · Gemini · Claude · Perplexity · Generative AI · RAG · Prompt Engineering · Google Colab · Canva · Antigravity IDE · Cursor
 
+<br>
+
 ---
 
 <!-- ================= PROJECTS ================= -->
@@ -42,10 +44,12 @@ I also have a strong interest in **presentation design and visual communication*
 
 | Project | Description |
 |---|---|
-| **Dishaara** | AI-powered tourism platform focused on safer, smarter, and more personalized travel experiences across India. **AI · Tourism · Safety · Hackathon** |
-| **Nexora** | AI-powered learning platform designed around adaptive and personalized learning experiences. **AI · Education · LLMs** |
-| **ChangeRehearsal** | IBM Bob hackathon project exploring AI-assisted development and creative software workflows. **AI · IBM Bob · Hackathon** |
-| **Personal Gemini Journal** | AI-powered journaling project built as part of the Build with APAC GDG Challenge. **Gemini · AI · GDG** |
+| **Dishaara** | AI-powered tourism platform focused on safer, smarter, and more personalized travel experiences. **AI · Tourism · Safety · Hackathon** |
+| **Nexora** | AI-powered learning platform designed around adaptive and personalized learning. **AI · Education · LLMs** |
+| **ChangeRehearsal** | IBM Bob hackathon project focused on AI-assisted development and creative software workflows. **AI · IBM Bob · Hackathon** |
+| **Personal Gemini Journal** | AI-powered journaling project built for the Build with APAC GDG Challenge. **Gemini · AI · GDG** |
+
+<br>
 
 ---
 
@@ -61,6 +65,8 @@ I also have a strong interest in **presentation design and visual communication*
 | Vivekananda Innovation Hackathon 2026 |
 | Vibeathon |
 | Build with APAC GDG Challenge |
+
+<br>
 
 ---
 
@@ -100,6 +106,8 @@ I also have a strong interest in **presentation design and visual communication*
 </tr>
 </table>
 
+<br>
+
 ---
 
 <!-- ================= GITHUB STATS ================= -->
@@ -132,6 +140,8 @@ alt="Most Used Languages"
 </tr>
 </table>
 
+<br>
+
 ---
 
 <!-- ================= CONTRIBUTION SNAKE ================= -->
@@ -160,6 +170,8 @@ alt="Most Used Languages"
 
 </p>
 
+<br>
+
 ---
 
 <!-- ================= CONNECT ================= -->
@@ -168,7 +180,7 @@ alt="Most Used Languages"
 
 <p align="left">
 
-<a href="www.linkedin.com/in/tashvi-adhlkha-39a4a6381">
+<a href="YOUR_LINKEDIN_URL">
   <img src="https://skillicons.dev/icons?i=linkedin" width="48" />
 </a>
 
@@ -179,6 +191,10 @@ alt="Most Used Languages"
 </a>
 
 </p>
+
+**Email:** adhlakhatashvi@gmail.com
+
+<br>
 
 ---
 
