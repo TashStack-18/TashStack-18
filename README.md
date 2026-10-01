@@ -62,7 +62,7 @@ Currently learning, experimenting, building, and trying to make every project a 
 </tr>
 
 <tr>
-<td><b>🧑‍💻 Programming</b></td>
+<td><b>🧑‍💻Programming</b></td>
 <td>
 🐍 Python &nbsp; • &nbsp;
 ☕ Java &nbsp; • &nbsp;
