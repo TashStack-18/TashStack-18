@@ -34,7 +34,6 @@ I also enjoy **presentation design and visual communication**, creating clear an
   <img src="https://skillicons.dev/icons?i=python,java,c,git,github,vscode,nextjs,nestjs&theme=dark" />
 </p>
 
----
 
 **AI/ML:** Python · Java · C · Git · GitHub · VS Code · Next.js · NestJS · Gemini · Claude · Perplexity · Generative AI · RAG · Prompt Engineering · Google Colab · Canva · Antigravity IDE · Cursor
 
@@ -69,23 +68,23 @@ I also enjoy **presentation design and visual communication**, creating clear an
 
 <tr>
 <td>Smart India Hackathon</td>
-<td>Hackathon</td>
+<td>Participant</td>
 </tr>
 
 <tr>
 <td>IBM Bob 2.0 Hackathon</td>
-<td>Hackathon</td>
+<td>Participant</td>
 </tr>
 
 <tr>
 <td>Vivekananda Innovation Hackathon 2026</td>
-<td>Hackathon</td>
+<td>Participant</td>
 </tr>
 
 
 <tr>
 <td>Build with APAC GDG Challenge</td>
-<td>Challenge</td>
+<td>Participant</td>
 </tr>
 
 </table>
