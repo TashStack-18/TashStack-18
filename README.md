@@ -162,7 +162,6 @@ alt="Most Used Languages"
 
 </td>
 
-<td width="34%" align="center">
 
 <td width="34%" align="center">
 
