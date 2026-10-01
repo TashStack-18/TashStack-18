@@ -134,14 +134,11 @@ I also enjoy **presentation design and visual communication**, creating clear an
 
 ## 📚 Currently Learning
 
-<table width="100%" style="border: none;">
+<table width="47%" align="left">
 <tr>
+<td>
 
-<td width="8%" style="border: none;"></td>
-
-<td width="40%" valign="top" style="border: none;">
-
-<h3 align="center">AI & Machine Learning</h3>
+<p><strong>AI & Machine Learning</strong></p>
 
 <table width="100%">
 <tr><td>AI Fundamentals</td></tr>
@@ -151,12 +148,16 @@ I also enjoy **presentation design and visual communication**, creating clear an
 </table>
 
 </td>
+</tr>
+</table>
 
-<td width="4%" style="border: none;"></td>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<td width="40%" valign="top" style="border: none;">
+<table width="47%" align="right">
+<tr>
+<td>
 
-<h3 align="center">Development & AI Tools</h3>
+<p><strong>Development & AI Tools</strong></p>
 
 <table width="100%">
 <tr><td>Full-Stack Development</td></tr>
@@ -166,11 +167,10 @@ I also enjoy **presentation design and visual communication**, creating clear an
 </table>
 
 </td>
-
-<td width="8%" style="border: none;"></td>
-
 </tr>
 </table>
+
+<br clear="all">
 
 <br>
 
