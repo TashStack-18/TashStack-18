@@ -100,27 +100,31 @@ I also enjoy **presentation design and visual communication**, creating clear an
 <table width="100%">
 <tr>
 
-<td width="48%" valign="top">
+<td width="47%" valign="top">
 
-### AI & Machine Learning
+<h3>AI & Machine Learning</h3>
 
-- AI Fundamentals
-- Machine Learning Concepts
-- Generative AI & LLMs
-- RAG Models
+<table width="100%">
+<tr><td>AI Fundamentals</td></tr>
+<tr><td>Machine Learning Concepts</td></tr>
+<tr><td>Generative AI & LLMs</td></tr>
+<tr><td>RAG Models</td></tr>
+</table>
 
 </td>
 
-<td width="4%"></td>
+<td width="6%"></td>
 
-<td width="48%" valign="top">
+<td width="47%" valign="top">
 
-### Development & AI Tools
+<h3>Development & AI Tools</h3>
 
-- Full-Stack Development
-- Python / Java / C Fundamentals
-- Agentic AI
-- AI-Assisted Development
+<table width="100%">
+<tr><td>Full-Stack Development</td></tr>
+<tr><td>Python / Java / C Fundamentals</td></tr>
+<tr><td>Agentic AI</td></tr>
+<tr><td>AI-Assisted Development</td></tr>
+</table>
 
 </td>
 
@@ -130,7 +134,6 @@ I also enjoy **presentation design and visual communication**, creating clear an
 <br>
 
 <hr>
----
 
 <!-- ================= GITHUB STATS ================= -->
 
