@@ -1,0 +1,26 @@
+name: Update GitHub Streak Stats
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  streak:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Generate Streak Stats
+        uses: zients/github-readme-streak-stats@v2
+        with:
+          user: TashStack-18
+          output: assets/streak.svg
+          card_width: 495
+          card_height: 195
+          disable_animations: true
