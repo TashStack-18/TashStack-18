@@ -194,7 +194,7 @@ A personal AI journaling project created for the <b>Build with APAC GDG Challeng
 <td width="33%" align="center">
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=TashStack-18&show_icons=true&hide_rank=true&hide_border=true&bg_color=0d1117&title_color=d946ef&icon_color=c026d3&text_color=e5e7eb"
+src="https://github-readme-stats.vercel.app/api?username=TashStack-18&show_icons=true&hide_rank=true&hide=commits&bg_color=0d1117&title_color=d946ef&icon_color=c026d3&text_color=e5e7eb&hide_border=true"
 width="100%"
 alt="GitHub Stats"
 />
