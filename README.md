@@ -26,8 +26,6 @@ I also enjoy **presentation design and visual communication**, creating clear an
 
 <hr>
 
-## 🛠️ Tech Stack
-
 <!-- ================= TECH STACK ================= -->
 
 ## 🛠️ Tech Stack
