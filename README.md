@@ -10,7 +10,7 @@
 
 ## 👋 About Me
 
-<img align="right" src="./assets/avatar.png" width="250" alt="Tashvi Avatar">
+<img align="right" src="./assets/avatar.png" width="205" alt="Tashvi Avatar">
 
 I'm Tashvi Adhlakha, passionate about **AI, software development, and creative problem-solving**. I enjoy building projects, exploring emerging technologies, and turning ideas into practical solutions.
 
@@ -57,7 +57,7 @@ I also enjoy **presentation design and visual communication**, creating clear an
 
 ## 🏆 Hackathons & Experiences
 
-| Experience |
+| Hackathons & Experiences |
 |---|
 | Smart India Hackathon |
 | IBM Bob Hackathon |
@@ -166,6 +166,7 @@ alt="Most Used Languages"
     alt="GitHub Contribution Snake"
     width="95%"
   />
+
 </picture>
 
 </p>
@@ -180,19 +181,17 @@ alt="Most Used Languages"
 
 <p align="left">
 
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="48" />
+<a href="https://www.linkedin.com/in/tashvi-adhlkha-39a4a6381">
+  <img src="https://img.shields.io/badge/LinkedIn-Tashvi_Adhlakha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 &nbsp;&nbsp;
 
 <a href="mailto:adhlakhatashvi@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="48" />
+  <img src="https://img.shields.io/badge/Email-adhlakhatashvi%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
 </p>
-
-**Email:** adhlakhatashvi@gmail.com
 
 <br>
 
