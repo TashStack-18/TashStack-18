@@ -1,14 +1,12 @@
 <div align="center">
 
-<!-- ===================== HEADER ===================== -->
-
-<img src="./assets/header.gif" width="100%" alt="Tashvi Adhlakha"/>
+<!-- HEADER -->
+<img src="./assets/header.png" width="100%" alt="Tashvi Adhlakha"/>
 
 <br><br>
 
-<!-- ===================== TYPING INTRO ===================== -->
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=FF4FA3&center=true&vCenter=true&width=850&height=80&lines=Learning+AI+%26+Machine+Learning+%F0%9F%A4%96;Exploring+Generative+AI+%26+LLMs+%E2%9C%A8;Learning+RAG+%26+Agentic+AI+%F0%9F%A4%96;Learning+the+fundamentals+of+Python%2C+Java+%26+C+%F0%9F%92%BB;Learning+to+become+a+Full-Stack+Developer+%F0%9F%8C%90;Building%2C+experimenting+%26+learning+along+the+way+%E2%9C%A8"/>
+<!-- ANIMATED TYPING -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2600&pause=900&color=FF4FA3&center=true&vCenter=true&width=850&height=80&lines=Learning+AI+%26+Machine+Learning;Exploring+Generative+AI+%26+LLMs;Learning+RAG+%26+Agentic+AI;Strengthening+Python%2C+Java+%26+C+fundamentals;Learning+to+become+a+Full-Stack+Developer;Building%2C+experimenting+%26+learning+along+the+way"/>
 
 <br>
 
@@ -18,373 +16,211 @@
 
 ---
 
-<!-- ===================== ABOUT ME ===================== -->
-
-<h2 align="center">👩🏻‍💻 A little about me ✦</h2>
+## 👩🏻‍💻 A little about me
 
 <table>
 <tr>
 
 <td width="68%" valign="middle">
 
-### Hey! I'm Tashvi 👋
+Hi, I'm **Tashvi**.
 
-I enjoy figuring out how things work and turning what I learn into things I can actually build.
+I enjoy learning by building, experimenting with new ideas, and figuring out how technology can turn simple concepts into something useful.
 
-I'm especially curious about **AI**, and I'm exploring **Machine Learning, Generative AI, LLMs, RAG and Agentic AI**.
+I'm especially interested in **AI, Machine Learning, Generative AI, LLMs, RAG and Agentic AI**, while also working towards becoming a **Full-Stack Developer**.
 
-I'm also learning my way towards **Full-Stack Development**, strengthening my programming fundamentals and building projects along the way.
+Alongside coding, I enjoy the creative side of technology too — especially **designing presentations, creating PPTs, and turning technical ideas into something visually clear and engaging**.
 
-I learn best by experimenting — trying new tools, working on hackathon ideas, building projects, and occasionally breaking things just to figure out why they stopped working. 😭
-
-**Currently exploring →** AI • Full-Stack • AI-assisted development • creative projects
+Currently, I'm focused on strengthening my fundamentals, building projects, exploring AI tools, and learning something new with every project.
 
 </td>
 
 <td width="32%" align="center">
 
-<img src="./assets/avatar.png" width="210" alt="Tashvi Pixel Avatar"/>
+<img src="./assets/avatar-pixel.png" width="190" alt="Tashvi Pixel Avatar"/>
 
 </td>
 
 </tr>
 </table>
 
-<br>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/AI_%26_ML-FF4FA3?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Full--Stack-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Hackathons-FF4FA3?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Learning-8B5CF6?style=for-the-badge"/>
-
-</div>
-
 ---
 
-<!-- ===================== TECH STACK ===================== -->
-
-<h2 align="center">🛠️ Tech Stack</h2>
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<table>
-<tr>
-
-<td width="50%" align="center">
-
 ### 💻 Programming
-
-<br>
 
 <img src="https://skillicons.dev/icons?i=python,java,c"/>
 
 <br><br>
 
-Learning the fundamentals and strengthening problem-solving skills.
-
-</td>
-
-<td width="50%" align="center">
-
-### 🤖 AI & AI Tools
-
-<br>
-
-<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white"/>
-<img src="https://img.shields.io/badge/IBM_Bob-161616?style=for-the-badge&logo=ibm&logoColor=white"/>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" align="center">
-
 ### 🌐 Development
-
-<br>
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 
 <br><br>
 
-Exploring development workflows and building projects.
+### 🤖 AI & AI Tools
 
-</td>
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white"/>
+<img src="https://img.shields.io/badge/IBM_Bob-161616?style=for-the-badge&logo=ibm&logoColor=white"/>
 
-<td width="50%" align="center">
+<br><br>
 
 ### 🧰 Tools
 
-<br>
-
 <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
-
-<br><br>
-
 <img src="https://img.shields.io/badge/Antigravity_IDE-111111?style=for-the-badge&logo=visualstudiocode&logoColor=8B5CF6"/>
-
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-
-</td>
-
-</tr>
-</table>
 
 </div>
 
 ---
 
-<!-- ===================== AI LEARNING ===================== -->
-
-<h2 align="center">🤖 AI / Learning</h2>
+## 🤖 What I'm Exploring
 
 <div align="center">
 
-<table>
-<tr>
-
-<td align="center" width="25%">
-
-### 🧠
-
-**Artificial Intelligence**
-
-Exploring AI fundamentals and practical applications.
-
-</td>
-
-<td align="center" width="25%">
-
-### ✨
-
-**Generative AI**
-
-Exploring LLM-based applications and how modern AI systems are built.
-
-</td>
-
-<td align="center" width="25%">
-
-### 🔍
-
-**RAG Models**
-
-Learning how retrieval-augmented systems connect AI models with relevant information.
-
-</td>
-
-<td align="center" width="25%">
-
-### ⚡
-
-**Agentic AI**
-
-Exploring AI systems, tools and multi-step workflows.
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<img src="https://img.shields.io/badge/Machine_Learning-FF4FA3?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLMs-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Prompt_Engineering-FF4FA3?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI--Assisted_Development-8B5CF6?style=for-the-badge"/>
+**Artificial Intelligence** · **Machine Learning** · **Generative AI**  
+**LLMs** · **RAG Models** · **Agentic AI** · **AI-assisted Development**
 
 </div>
 
+<br>
+
+I'm currently learning how AI systems work beyond simply using AI tools — from understanding fundamentals to exploring how **LLMs, retrieval systems and agentic workflows** can be used to build practical applications.
+
 ---
 
-<!-- ===================== PROJECTS ===================== -->
-
-<h2 align="center">🚀 Things I've Built</h2>
-
-<table>
-
-<tr>
-
-<td width="50%" align="center">
+## 🚀 Things I've Built
 
 ### 🌍 Dishaara
+**AI-powered tourism platform**
 
-AI-powered tourism platform focused on making travel safer, smarter and more personalized.
+A tourism-focused platform designed around safer, smarter and more personalized travel experiences.
 
 `AI` `Tourism` `Safety` `Hackathon`
 
-</td>
-
-<td width="50%" align="center">
+---
 
 ### 📚 Nexora
+**AI-powered learning platform**
 
-AI-powered learning platform focused on adaptive and personalized learning.
+A learning platform exploring adaptive and personalized learning experiences with AI.
 
 `AI` `Education` `LLMs`
 
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" align="center">
+---
 
 ### 🔄 ChangeRehearsal
+**IBM Bob Hackathon Project**
 
-Project developed for an IBM Bob hackathon exploring AI-assisted development.
+A project exploring AI-assisted development through an IBM Bob hackathon.
 
 `AI` `IBM Bob` `Hackathon`
 
-</td>
-
-<td width="50%" align="center">
+---
 
 ### 📔 Personal Gemini Journal
+**Build with APAC GDG Challenge**
 
-Personal project created for the Build with APAC GDG Challenge.
+A personal project created as part of the Build with APAC GDG Challenge.
 
 `Gemini` `AI` `GDG`
 
-</td>
-
-</tr>
-
-</table>
-
 ---
-
-<!-- ===================== HACKATHONS ===================== -->
-
-<h2 align="center">🏆 Hackathons & Learning</h2>
 
 <div align="center">
 
-🏆 **Smart India Hackathon**  
-🤖 **IBM Bob Hackathon**  
-💡 **Vibeathon**  
-✨ **Build with APAC GDG**
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Prompt_Engineering-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Agentic_AI-FF4FA3?style=for-the-badge"/>
+**More projects → more experiments → more things to learn.**
 
 </div>
 
 ---
 
-<!-- ===================== CURRENTLY LEARNING ===================== -->
-
-<h2 align="center">📚 Currently Learning</h2>
+## 🏆 Hackathons & Experiences
 
 <div align="center">
 
-<table>
+| | Experience |
+|---|---|
+| 🏆 | **Smart India Hackathon** |
+| 🤖 | **IBM Bob Hackathon** |
+| 💡 | **Vibeathon** |
+| ✨ | **Build with APAC GDG Challenge** |
 
-<tr>
+<br>
 
-<td width="50%">
-
-### 🤖 AI & Machine Learning
-
-- AI fundamentals
-- Machine Learning concepts
-- Generative AI & LLMs
-- RAG models
-
-</td>
-
-<td width="50%">
-
-### 🌐 Development & AI Tools
-
-- Full-Stack Development
-- Python, Java & C fundamentals
-- Agentic AI
-- AI-assisted development
-
-</td>
-
-</tr>
-
-</table>
+<img src="https://img.shields.io/badge/AI%20%26%20ML-FF4FA3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Generative%20AI-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agentic%20AI-FF4FA3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-8B5CF6?style=for-the-badge"/>
 
 </div>
 
 ---
 
-<!-- ===================== GITHUB ANALYTICS ===================== -->
-
-<h2 align="center">📊 GitHub Analytics</h2>
+## 📚 Currently Learning
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=TashStack-18&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF4FA3&icon_color=8B5CF6&text_color=FFFFFF"/>
-
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TashStack-18&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF4FA3&text_color=FFFFFF"/>
+| 🤖 AI & Machine Learning | 🌐 Development |
+|---|---|
+| AI fundamentals | Full-Stack Development |
+| Machine Learning concepts | Python fundamentals |
+| Generative AI & LLMs | Java fundamentals |
+| RAG models | C fundamentals |
+| Agentic AI | AI-assisted development |
 
 </div>
 
 ---
 
-<!-- ===================== STREAK ===================== -->
-
-<h2 align="center">🔥 Contribution Streak</h2>
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=TashStack-18&hide_border=true&background=0D1117&ring=FF4FA3&fire=FF4FA3&currStreakLabel=FF4FA3&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=TashStack-18&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF4FA3&icon_color=8B5CF6&text_color=FFFFFF&rank_icon=github"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TashStack-18&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF4FA3&text_color=FFFFFF"/>
 
 </div>
 
 ---
 
-<!-- ===================== CONTRIBUTION GRAPH ===================== -->
-
-<h2 align="center">📈 Contribution Graph</h2>
+## 🐍 Contribution Journey
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TashStack-18&bg_color=0D1117&color=FFFFFF&line=FF4FA3&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+<img src="https://raw.githubusercontent.com/TashStack-18/TashStack-18/output/github-contribution-grid-snake-dark.svg" width="95%" alt="GitHub Contribution Snake"/>
 
 </div>
 
 ---
 
-<!-- ===================== CONNECT ===================== -->
-
-<h2 align="center">🌐 Let's Connect</h2>
+## 🌐 Let's Connect
 
 <div align="center">
 
-<a href="https://github.com/TashStack-18">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-</a>
-
-<a href="https://www.linkedin.com/in/tashvi-adhlkha-39a4a6381">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+<a href="https://www.linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:adhlakhat@gmail.com">
-<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+<img src="https://img.shields.io/badge/Email-FF4FA3?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
 
-### ✨ Still learning. Still building. Still curious.
+**Have an idea? Let's build something interesting.**
 
-*Let's build something interesting. 🚀*
+<br>
+
+*Still learning. Still building. Still curious.*
 
 </div>
 
@@ -392,6 +228,6 @@ Personal project created for the Build with APAC GDG Challenge.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0015,45:8B5CF6,75:FF4FA3,100:0D0015&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0015,50:8B5CF6,100:FF4FA3&height=110&section=footer"/>
 
 </div>
