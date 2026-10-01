@@ -16,10 +16,10 @@
 <!--                       ABOUT ME                            -->
 <!-- ========================================================= -->
 
-<table width="100%" border="0">
+<table width="100%">
 <tr>
 
-<td width="65%" valign="middle" border="0">
+<td width="65%" valign="middle">
 
 # Hey, I'm Tashvi 👋
 
@@ -33,7 +33,7 @@ Currently learning, experimenting, building, and trying to make every project a 
 
 </td>
 
-<td width="35%" align="center" border="0">
+<td width="35%" align="center">
 
 <img
   src="./assets/avatar.png"
@@ -54,21 +54,52 @@ Currently learning, experimenting, building, and trying to make every project a 
 
 ## 💻 Tech Stack
 
-### 🧑‍💻 Programming
+<table width="100%" cellspacing="0" cellpadding="12">
 
-🐍 **Python** &nbsp;&nbsp; ☕ **Java** &nbsp;&nbsp; 💻 **C**
+<tr>
+<th width="25%" align="left">Category</th>
+<th align="left">Technologies</th>
+</tr>
 
-### 🤖 AI & AI Tools
+<tr>
+<td><b>🧑‍💻 Programming</b></td>
+<td>
+🐍 Python &nbsp; • &nbsp;
+☕ Java &nbsp; • &nbsp;
+💻 C
+</td>
+</tr>
 
-✨ **Gemini** &nbsp;&nbsp; 🧠 **Claude** &nbsp;&nbsp; 🔎 **Perplexity** &nbsp;&nbsp; 🤖 **IBM Bob**
+<tr>
+<td><b>🤖 AI & AI Tools</b></td>
+<td>
+✨ Gemini &nbsp; • &nbsp;
+🧠 Claude &nbsp; • &nbsp;
+🔎 Perplexity &nbsp; • &nbsp;
+🤖 IBM Bob
+</td>
+</tr>
 
-### 🌐 Development
+<tr>
+<td><b>🌐 Development</b></td>
+<td>
+🔧 Git &nbsp; • &nbsp;
+🐙 GitHub &nbsp; • &nbsp;
+💻 VS Code
+</td>
+</tr>
 
-🔧 **Git** &nbsp;&nbsp; 🐙 **GitHub** &nbsp;&nbsp; 💻 **VS Code**
+<tr>
+<td><b>🛠️ Tools</b></td>
+<td>
+📓 Google Colab &nbsp; • &nbsp;
+⚡ Antigravity IDE &nbsp; • &nbsp;
+🎨 Canva
+</td>
+</tr>
 
-### 🛠️ Tools
+</table>
 
-📓 **Google Colab** &nbsp;&nbsp; ⚡ **Antigravity IDE** &nbsp;&nbsp; 🎨 **Canva**
 ---
 
 <!-- ========================================================= -->
@@ -115,36 +146,36 @@ A personal AI journaling project created for the **Build with APAC GDG Challenge
 
 ## 🏆 Hackathons & Experiences
 
-<table width="100%" border="0" cellspacing="0" cellpadding="8">
+<table width="100%" cellspacing="0" cellpadding="10">
 
 <tr>
-<td width="8%" border="0">🏆</td>
-<td border="0"><b>Smart India Hackathon</b></td>
+<td width="8%" align="center">🏆</td>
+<td><b>Smart India Hackathon</b></td>
 </tr>
 
 <tr>
-<td border="0">🤖</td>
-<td border="0"><b>IBM Bob Hackathon</b></td>
+<td align="center">🤖</td>
+<td><b>IBM Bob Hackathon</b></td>
 </tr>
 
 <tr>
-<td border="0">🤖</td>
-<td border="0"><b>IBM Bob 2.0 Hackathon</b></td>
+<td align="center">🤖</td>
+<td><b>IBM Bob 2.0 Hackathon</b></td>
 </tr>
 
 <tr>
-<td border="0">💡</td>
-<td border="0"><b>Vivekananda Innovation Hackathon 2026</b></td>
+<td align="center">💡</td>
+<td><b>Vivekananda Innovation Hackathon 2026</b></td>
 </tr>
 
 <tr>
-<td border="0">💡</td>
-<td border="0"><b>Vibeathon</b></td>
+<td align="center">💡</td>
+<td><b>Vibeathon</b></td>
 </tr>
 
 <tr>
-<td border="0">✨</td>
-<td border="0"><b>Build with APAC GDG Challenge</b></td>
+<td align="center">✨</td>
+<td><b>Build with APAC GDG Challenge</b></td>
 </tr>
 
 </table>
@@ -177,27 +208,37 @@ A personal AI journaling project created for the **Build with APAC GDG Challenge
 <!--                    GITHUB ANALYTICS                        -->
 <!-- ========================================================= -->
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
-<table width="100%" border="0" cellspacing="0" cellpadding="6">
+<table width="100%" cellspacing="8" cellpadding="0">
 <tr>
 
-<td width="50%" align="center" border="0">
+<td width="33%" align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=TashStack-18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=d946ef&icon_color=c026d3&text_color=e5e7eb"
+  src="https://github-readme-stats.vercel.app/api?username=TashStack-18&show_icons=true&hide_border=true&bg_color=0d1117&title_color=d946ef&icon_color=c026d3&text_color=e5e7eb&ring_color=d946ef"
   width="100%"
   alt="GitHub Stats"
 />
 
 </td>
 
-<td width="50%" align="center" border="0">
+<td width="33%" align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TashStack-18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=d946ef&text_color=e5e7eb"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TashStack-18&layout=compact&hide_border=true&bg_color=0d1117&title_color=d946ef&text_color=e5e7eb"
   width="100%"
   alt="Top Languages"
+/>
+
+</td>
+
+<td width="34%" align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=TashStack-18&bg_color=0d1117&color=d946ef&line=c026d3&point=f472b6&area=true&hide_border=true&custom_title=GitHub%20Activity"
+  width="100%"
+  alt="GitHub Activity Graph"
 />
 
 </td>
