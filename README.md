@@ -170,22 +170,12 @@ A personal AI journaling project created for the <b>Build with APAC GDG Challeng
 
 <tr>
 <td align="center">🤖</td>
-<td><b>IBM Bob Hackathon</b></td>
-</tr>
-
-<tr>
-<td align="center">🤖</td>
 <td><b>IBM Bob 2.0 Hackathon</b></td>
 </tr>
 
 <tr>
 <td align="center">💡</td>
 <td><b>Vivekananda Innovation Hackathon 2026</b></td>
-</tr>
-
-<tr>
-<td align="center">💡</td>
-<td><b>Vibeathon</b></td>
 </tr>
 
 <tr>
