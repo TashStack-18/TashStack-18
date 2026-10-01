@@ -231,7 +231,7 @@ A personal AI journaling project created for the <b>Build with APAC GDG Challeng
 <td width="33%" align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=TashStack-18&show_icons=true&hide_border=true&bg_color=0d1117&title_color=d946ef&icon_color=c026d3&text_color=e5e7eb&ring_color=d946ef"
+  src="https://github-readme-stats.vercel.app/api?username=TashStack-18&show_icons=true&hide_rank=true&hide_border=true&bg_color=0d1117&title_color=d946ef&icon_color=c026d3&text_color=e5e7eb"
   width="100%"
   alt="GitHub Stats"
 />
@@ -251,7 +251,7 @@ A personal AI journaling project created for the <b>Build with APAC GDG Challeng
 <td width="34%" align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=TashStack-18&bg_color=0d1117&color=d946ef&line=c026d3&point=f472b6&area=true&hide_border=true&custom_title=GitHub%20Activity"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=TashStack-18&bg_color=0d1117&color=e5e7eb&line=d946ef&point=f472b6&area_color=6b21a8&area=true&hide_border=true&custom_title=GitHub%20Activity"
   width="100%"
   alt="GitHub Activity Graph"
 />
