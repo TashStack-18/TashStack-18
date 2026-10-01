@@ -134,7 +134,7 @@ I also enjoy **presentation design and visual communication**, creating clear an
 
 ## 📚 Currently Learning
 
-<table width="500" align="left">
+<table width="520" align="left">
 <tr>
 <td><strong>AI & Machine Learning</strong></td>
 </tr>
@@ -152,7 +152,7 @@ I also enjoy **presentation design and visual communication**, creating clear an
 </tr>
 </table>
 
-<table width="500" align="right">
+<table width="520" align="right">
 <tr>
 <td><strong>Development & AI Tools</strong></td>
 </tr>
