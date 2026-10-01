@@ -54,52 +54,67 @@ Currently learning, experimenting, building, and trying to make every project a 
 
 ## 💻 Tech Stack
 
-<table width="100%" cellspacing="0" cellpadding="12">
-
+<table width="100%">
 <tr>
-<th width="25%" align="left">Category</th>
-<th align="left">Technologies</th>
+<th>Category</th>
+<th>Technologies</th>
 </tr>
 
 <tr>
-<td><b>🧑‍💻Programming</b></td>
+<td><b>Programming</b></td>
 <td>
-🐍 Python &nbsp; • &nbsp;
-☕ Java &nbsp; • &nbsp;
-💻 C
+
+<img src="https://cdn.simpleicons.org/python/3776AB" width="22" height="22" /> Python
+&nbsp; • &nbsp;
+<img src="https://cdn.simpleicons.org/openjdk/ED8B00" width="22" height="22" /> Java
+&nbsp; • &nbsp;
+<img src="https://cdn.simpleicons.org/c/00599C" width="22" height="22" /> C
+
 </td>
 </tr>
 
 <tr>
-<td><b>🤖 AI & AI Tools</b></td>
+<td><b>AI & AI Tools</b></td>
 <td>
-✨ Gemini &nbsp; • &nbsp;
-🧠 Claude &nbsp; • &nbsp;
-🔎 Perplexity &nbsp; • &nbsp;
-🤖 IBM Bob
+
+<img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="22" height="22" /> Gemini
+&nbsp; • &nbsp;
+<img src="https://cdn.simpleicons.org/claude/D97757" width="22" height="22" /> Claude
+&nbsp; • &nbsp;
+<img src="https://cdn.simpleicons.org/perplexity/20B8CD" width="22" height="22" /> Perplexity
+&nbsp; • &nbsp;
+<img src="https://cdn.simpleicons.org/ibm/052FAD" width="22" height="22" /> IBM Bob
+
 </td>
 </tr>
 
 <tr>
-<td><b>🌐 Development</b></td>
+<td><b>Development</b></td>
 <td>
-🔧 Git &nbsp; • &nbsp;
-🐙 GitHub &nbsp; • &nbsp;
-💻 VS Code
+
+<img src="https://cdn.simpleicons.org/git/F05032" width="22" height="22" /> Git
+&nbsp; • &nbsp;
+<img src="https://cdn.simpleicons.org/github/FFFFFF" width="22" height="22" /> GitHub
+&nbsp; • &nbsp;
+<img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="22" height="22" /> VS Code
+
 </td>
 </tr>
 
 <tr>
-<td><b>🛠️ Tools</b></td>
+<td><b>Tools</b></td>
 <td>
-📓 Google Colab &nbsp; • &nbsp;
-⚡ Antigravity IDE &nbsp; • &nbsp;
-🎨 Canva
+
+<img src="https://cdn.simpleicons.org/googlecolab/F9AB00" width="22" height="22" /> Google Colab
+&nbsp; • &nbsp;
+⚡ Antigravity IDE
+&nbsp; • &nbsp;
+<img src="https://cdn.simpleicons.org/canva/00C4CC" width="22" height="22" /> Canva
+
 </td>
 </tr>
 
 </table>
-
 ---
 
 <!-- ========================================================= -->
