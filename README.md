@@ -54,57 +54,21 @@ Currently learning, experimenting, building, and trying to make every project a 
 
 ## 💻 Tech Stack
 
-<table width="100%" border="0" cellspacing="0" cellpadding="12">
-<tr>
-
-<td width="50%" valign="top" border="0">
-
 ### 🧑‍💻 Programming
 
-🐍 Python  
-☕ Java  
-💻 C
-
-</td>
-
-<td width="50%" valign="top" border="0">
+🐍 **Python** &nbsp;&nbsp; ☕ **Java** &nbsp;&nbsp; 💻 **C**
 
 ### 🤖 AI & AI Tools
 
-✨ Gemini  
-🧠 Claude  
-🔎 Perplexity  
-🤖 IBM Bob
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top" border="0">
+✨ **Gemini** &nbsp;&nbsp; 🧠 **Claude** &nbsp;&nbsp; 🔎 **Perplexity** &nbsp;&nbsp; 🤖 **IBM Bob**
 
 ### 🌐 Development
 
-🔧 Git  
-🐙 GitHub  
-💻 VS Code
-
-</td>
-
-<td width="50%" valign="top" border="0">
+🔧 **Git** &nbsp;&nbsp; 🐙 **GitHub** &nbsp;&nbsp; 💻 **VS Code**
 
 ### 🛠️ Tools
 
-📓 Google Colab  
-⚡ Antigravity IDE  
-🎨 Canva
-
-</td>
-
-</tr>
-</table>
-
+📓 **Google Colab** &nbsp;&nbsp; ⚡ **Antigravity IDE** &nbsp;&nbsp; 🎨 **Canva**
 ---
 
 <!-- ========================================================= -->
