@@ -21,15 +21,15 @@
 
 <td width="65%" valign="middle">
 
-# Hey, I'm Tashvi 👋
+## 👋 About Me
 
-### CSE (AI & ML) Student • Developer • Creative Builder
+I'm a second-year CSE (AI & ML) student who enjoys building with technology,
+exploring AI, and turning ideas into creative projects.
 
-I'm a second-year **Computer Science & Engineering (AI & ML)** student who enjoys turning ideas into practical digital experiences.
+I’m interested in **AI, development, design, and creative problem-solving**.
+I also enjoy **creating presentations, designing PPTs, and communicating ideas visually**.
 
-I love exploring **AI, development, design, and creative problem-solving** — from building AI-powered platforms to creating clean presentations and user-focused interfaces.
-
-Currently learning, experimenting, building, and trying to make every project a little better than the last.
+✨ Always learning · Always building · Always experimenting
 
 </td>
 
@@ -54,41 +54,13 @@ Currently learning, experimenting, building, and trying to make every project a 
 
 ## 🛠️ Tech Stack
 
-<table width="100%">
-<tr>
-<th>Category</th>
-<th>Technologies</th>
-</tr>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,c,git,github,vscode,nextjs,nestjs&theme=dark" />
+</p>
 
-<tr>
-<td><b>Programming</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=python,java,c&theme=dark" />
-</td>
-</tr>
+**AI / ML:** Gemini · Claude · Perplexity · Generative AI · RAG · Prompt Engineering
 
-<tr>
-<td><b>AI & AI Tools</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" />
-</td>
-</tr>
-
-<tr>
-<td><b>Development</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,nextjs,nestjs&theme=dark" />
-</td>
-</tr>
-
-<tr>
-<td><b>Tools</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=googlecolab,canva&theme=dark" />
-</td>
-</tr>
-
-</table>
+**Tools:** Git · GitHub · VS Code · Google Colab · Antigravity IDE · Cursor
 
 <!-- ========================================================= -->
 <!--                        PROJECTS                            -->
