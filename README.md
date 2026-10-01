@@ -1,43 +1,45 @@
-<div align="center">
+<!-- ========================================================= -->
+<!--                         HEADER                            -->
+<!-- ========================================================= -->
 
-<!-- HEADER -->
-<img src="./assets/header.png" width="100%" alt="Tashvi Adhlakha"/>
-
-<br><br>
-
-<!-- ANIMATED TYPING -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2600&pause=900&color=FF4FA3&center=true&vCenter=true&width=850&height=80&lines=Learning+AI+%26+Machine+Learning;Exploring+Generative+AI+%26+LLMs;Learning+RAG+%26+Agentic+AI;Strengthening+Python%2C+Java+%26+C+fundamentals;Learning+to+become+a+Full-Stack+Developer;Building%2C+experimenting+%26+learning+along+the+way"/>
+<p align="center">
+  <img
+    src="./assets/header.png"
+    width="100%"
+    alt="Tashvi's Header"
+  />
+</p>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=TashStack-18&label=PROFILE%20VIEWS&color=FF4FA3&style=for-the-badge"/>
-
-</div>
-
----
-
-## 👩🏻‍💻 A little about me
+<!-- ========================================================= -->
+<!--                      ABOUT ME                             -->
+<!-- ========================================================= -->
 
 <table>
 <tr>
 
-<td width="68%" valign="middle">
+<td width="65%" valign="middle">
 
-Hi, I'm **Tashvi**.
+# Hey, I'm Tashvi 👋
 
-I enjoy learning by building, experimenting with new ideas, and figuring out how technology can turn simple concepts into something useful.
+### CSE (AI & ML) Student • Developer • Creative Builder
 
-I'm especially interested in **AI, Machine Learning, Generative AI, LLMs, RAG and Agentic AI**, while also working towards becoming a **Full-Stack Developer**.
+I'm a second-year **Computer Science & Engineering (AI & ML)** student who enjoys turning ideas into practical digital experiences.
 
-Alongside coding, I enjoy the creative side of technology too — especially **designing presentations, creating PPTs, and turning technical ideas into something visually clear and engaging**.
+I love exploring **AI, development, design, and creative problem-solving** — from building AI-powered platforms to creating clean presentations and user-focused interfaces.
 
-Currently, I'm focused on strengthening my fundamentals, building projects, exploring AI tools, and learning something new with every project.
+Currently learning, experimenting, building, and trying to make every project a little better than the last.
 
 </td>
 
-<td width="32%" align="center">
+<td width="35%" align="center">
 
-<img src="./assets/avatar-pixel.png" width="190" alt="Tashvi Pixel Avatar"/>
+<img
+  src="./assets/avatar.png"
+  width="280"
+  alt="Tashvi Pixel Avatar"
+/>
 
 </td>
 
@@ -46,188 +48,264 @@ Currently, I'm focused on strengthening my fundamentals, building projects, expl
 
 ---
 
-## 🛠️ Tech Stack
+<!-- ========================================================= -->
+<!--                      TECH STACK                           -->
+<!-- ========================================================= -->
 
-<div align="center">
+## 💻 Tech Stack
 
-### 💻 Programming
+<table align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,c"/>
+<tr>
 
-<br><br>
+<td width="50%" valign="top">
 
-### 🌐 Development
+### 🧑‍💻 Programming
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+- Python
+- Java
+- C
 
-<br><br>
+</td>
+
+<td width="50%" valign="top">
 
 ### 🤖 AI & AI Tools
 
-<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white"/>
-<img src="https://img.shields.io/badge/IBM_Bob-161616?style=for-the-badge&logo=ibm&logoColor=white"/>
+- Gemini
+- Claude
+- Perplexity
+- IBM Bob
 
-<br><br>
+</td>
 
-### 🧰 Tools
+</tr>
 
-<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
-<img src="https://img.shields.io/badge/Antigravity_IDE-111111?style=for-the-badge&logo=visualstudiocode&logoColor=8B5CF6"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+<tr>
 
-</div>
+<td width="50%" valign="top">
+
+### 🌐 Development
+
+- Git
+- GitHub
+- VS Code
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🛠️ Tools
+
+- Google Colab
+- Antigravity IDE
+- Canva
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-## 🤖 What I'm Exploring
-
-<div align="center">
-
-**Artificial Intelligence** · **Machine Learning** · **Generative AI**  
-**LLMs** · **RAG Models** · **Agentic AI** · **AI-assisted Development**
-
-</div>
-
-<br>
-
-I'm currently learning how AI systems work beyond simply using AI tools — from understanding fundamentals to exploring how **LLMs, retrieval systems and agentic workflows** can be used to build practical applications.
-
----
+<!-- ========================================================= -->
+<!--                        PROJECTS                            -->
+<!-- ========================================================= -->
 
 ## 🚀 Things I've Built
 
-### 🌍 Dishaara
-**AI-powered tourism platform**
+### 🧭 Dishaara
 
-A tourism-focused platform designed around safer, smarter and more personalized travel experiences.
+**AI-powered tourism platform** designed to make travel safer, smarter, and more personalized.
 
 `AI` `Tourism` `Safety` `Hackathon`
 
 ---
 
 ### 📚 Nexora
-**AI-powered learning platform**
 
-A learning platform exploring adaptive and personalized learning experiences with AI.
+**AI-powered learning platform** focused on adaptive and personalized learning experiences.
 
 `AI` `Education` `LLMs`
 
 ---
 
-### 🔄 ChangeRehearsal
-**IBM Bob Hackathon Project**
+### 🤖 ChangeRehearsal
 
-A project exploring AI-assisted development through an IBM Bob hackathon.
+An **IBM Bob Hackathon** project exploring AI-assisted development and creative problem solving.
 
 `AI` `IBM Bob` `Hackathon`
 
 ---
 
-### 📔 Personal Gemini Journal
-**Build with APAC GDG Challenge**
+### ✨ Personal Gemini Journal
 
-A personal project created as part of the Build with APAC GDG Challenge.
+A personal AI journaling project created for the **Build with APAC GDG Challenge**.
 
 `Gemini` `AI` `GDG`
 
 ---
 
-<div align="center">
-
-**More projects → more experiments → more things to learn.**
-
-</div>
-
----
+<!-- ========================================================= -->
+<!--                   HACKATHONS                              -->
+<!-- ========================================================= -->
 
 ## 🏆 Hackathons & Experiences
 
-<div align="center">
+<table align="center">
 
-| | Experience |
-|---|---|
-| 🏆 | **Smart India Hackathon** |
-| 🤖 | **IBM Bob Hackathon** |
-| 💡 | **Vibeathon** |
-| ✨ | **Build with APAC GDG Challenge** |
+<tr>
+<th></th>
+<th>Experience</th>
+</tr>
 
-<br>
+<tr>
+<td>🏆</td>
+<td><b>Smart India Hackathon</b></td>
+</tr>
 
-<img src="https://img.shields.io/badge/AI%20%26%20ML-FF4FA3?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Generative%20AI-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Agentic%20AI-FF4FA3?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Prompt%20Engineering-8B5CF6?style=for-the-badge"/>
+<tr>
+<td>🤖</td>
+<td><b>IBM Bob Hackathon</b></td>
+</tr>
 
-</div>
+<tr>
+<td>🤖</td>
+<td><b>IBM Bob 2.0 Hackathon</b></td>
+</tr>
+
+<tr>
+<td>💡</td>
+<td><b>Vivekananda Innovation Hackathon 2026</b></td>
+</tr>
+
+<tr>
+<td>💡</td>
+<td><b>Vibeathon</b></td>
+</tr>
+
+<tr>
+<td>✨</td>
+<td><b>Build with APAC GDG Challenge</b></td>
+</tr>
+
+</table>
 
 ---
 
-## 📚 Currently Learning
+<!-- ========================================================= -->
+<!--                    CURRENTLY LEARNING                     -->
+<!-- ========================================================= -->
 
-<div align="center">
+## 📖 Currently Learning
 
-| 🤖 AI & Machine Learning | 🌐 Development |
-|---|---|
-| AI fundamentals | Full-Stack Development |
-| Machine Learning concepts | Python fundamentals |
-| Generative AI & LLMs | Java fundamentals |
-| RAG models | C fundamentals |
-| Agentic AI | AI-assisted development |
+### 🤖 AI & Machine Learning
 
-</div>
+- AI Fundamentals
+- Machine Learning Concepts
+- Generative AI & LLMs
+- RAG Models
+
+### 💻 Development & AI Tools
+
+- Full-Stack Development
+- Python / Java / C Fundamentals
+- Agentic AI
+- AI-Assisted Development
 
 ---
+
+<!-- ========================================================= -->
+<!--                    GITHUB ANALYTICS                       -->
+<!-- ========================================================= -->
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=TashStack-18&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF4FA3&icon_color=8B5CF6&text_color=FFFFFF&rank_icon=github"/>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=TashStack-18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=d946ef&icon_color=c026d3&text_color=e5e7eb"
+  height="170"
+  alt="GitHub Stats"
+/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TashStack-18&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF4FA3&text_color=FFFFFF"/>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TashStack-18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=d946ef&text_color=e5e7eb"
+  height="170"
+  alt="Top Languages"
+/>
 
-</div>
+</p>
 
 ---
+
+<!-- ========================================================= -->
+<!--                  CONTRIBUTION SNAKE                       -->
+<!-- ========================================================= -->
 
 ## 🐍 Contribution Journey
 
-<div align="center">
+<p align="center">
 
-<img src="https://raw.githubusercontent.com/TashStack-18/TashStack-18/output/github-contribution-grid-snake-dark.svg" width="95%" alt="GitHub Contribution Snake"/>
+  <picture>
 
-</div>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/TashStack-18/TashStack-18/output/github-snake-dark.svg"
+    />
+
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/TashStack-18/TashStack-18/output/github-snake.svg"
+    />
+
+    <img
+      src="https://raw.githubusercontent.com/TashStack-18/TashStack-18/output/github-snake.svg"
+      alt="GitHub Contribution Snake"
+      width="95%"
+    />
+
+  </picture>
+
+</p>
 
 ---
 
+<!-- ========================================================= -->
+<!--                       CONNECT                             -->
+<!-- ========================================================= -->
+
 ## 🌐 Let's Connect
 
-<div align="center">
+<p align="center">
 
-<a href="https://www.linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="YOUR_LINKEDIN_URL">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-d946ef?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
 </a>
 
-<a href="mailto:adhlakhat@gmail.com">
-<img src="https://img.shields.io/badge/Email-FF4FA3?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:YOUR_EMAIL">
+  <img
+    src="https://img.shields.io/badge/Email-c026d3?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
+  />
 </a>
 
-<br><br>
+</p>
 
-**Have an idea? Let's build something interesting.**
+---
 
-<br>
+<!-- ========================================================= -->
+<!--                         FOOTER                            -->
+<!-- ========================================================= -->
 
-*Still learning. Still building. Still curious.*
+<p align="center">
 
-</div>
+### Still learning. Still building. Still curious. ✨
 
-<br>
+**Let's build something interesting.**
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0015,50:8B5CF6,100:FF4FA3&height=110&section=footer"/>
-
-</div>
+</p>
