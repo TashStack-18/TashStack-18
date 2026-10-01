@@ -61,18 +61,38 @@ I also enjoy **presentation design and visual communication**, creating clear an
 
 ## 🏆 Hackathons & Experiences
 
-| Hackathons & Experiences |
-|---|
-| Smart India Hackathon |
-| IBM Bob Hackathon |
-| IBM Bob 2.0 Hackathon |
-| Vivekananda Innovation Hackathon 2026 |
-| Vibeathon |
-| Build with APAC GDG Challenge |
+<table width="100%">
+<tr>
+<th align="left">Hackathon / Experience</th>
+<th align="left">Type</th>
+</tr>
+
+<tr>
+<td>Smart India Hackathon</td>
+<td>Hackathon</td>
+</tr>
+
+<tr>
+<td>IBM Bob 2.0 Hackathon</td>
+<td>Hackathon</td>
+</tr>
+
+<tr>
+<td>Vivekananda Innovation Hackathon 2026</td>
+<td>Hackathon</td>
+</tr>
+
+
+<tr>
+<td>Build with APAC GDG Challenge</td>
+<td>Challenge</td>
+</tr>
+
+</table>
 
 <br>
 
----
+<hr>
 
 <!-- ================= CURRENTLY LEARNING ================= -->
 
