@@ -1,5 +1,13 @@
 <!-- ================= HEADER ================= -->
 
+<p align="center">
+  <img src="./assets/header.png" width="100%" alt="Tashvi Adhlakha GitHub Header">
+</p>
+
+<br>
+
+<!-- ================= ABOUT ME ================= -->
+
 ## 👋 About Me
 
 <img align="right" src="./assets/avatar.png" width="175" alt="Tashvi Avatar">
@@ -21,7 +29,6 @@ presentations that communicate ideas effectively.
 
 <br clear="right">
 
-<br>
 <br>
 
 ---
@@ -184,13 +191,19 @@ alt="Most Used Languages"
 <p align="left">
 
 <a href="https://www.linkedin.com/in/tashvi-adhlkha-39a4a6381">
-  <img src="https://img.shields.io/badge/LinkedIn-Tashvi_Adhlakha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Tashvi_Adhlakha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
 </a>
 
 &nbsp;&nbsp;
 
 <a href="mailto:adhlakhatashvi@gmail.com">
-  <img src="https://img.shields.io/badge/Email-adhlakhatashvi%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <img
+    src="https://img.shields.io/badge/Email-adhlakhatashvi%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
+  />
 </a>
 
 </p>
