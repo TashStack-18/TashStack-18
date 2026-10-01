@@ -1,25 +1,27 @@
 <!-- ================= HEADER ================= -->
 
-<p align="center">
-  <img src="./assets/header.png" width="100%" alt="Tashvi Adhlakha GitHub Header">
-</p>
-
-<br>
-
-<!-- ================= ABOUT ME ================= -->
-
 ## 👋 About Me
 
-<img align="right" src="./assets/avatar.png" width="205" alt="Tashvi Avatar">
+<img align="right" src="./assets/avatar.png" width="175" alt="Tashvi Avatar">
 
-I'm Tashvi Adhlakha, passionate about **AI, software development, and creative problem-solving**. I enjoy building projects, exploring emerging technologies, and turning ideas into practical solutions.
+I'm Tashvi Adhlakha, a second-year B.Tech CSE  
+student specializing in **AI & ML**, with an interest  
+in **AI, software development, and creative  
+problem-solving**.
 
-I also enjoy **presentation design and visual communication**, creating clear and engaging presentations that communicate ideas effectively.
+I enjoy building projects, exploring emerging  
+technologies, participating in hackathons, and  
+turning ideas into practical solutions.
+
+I also enjoy **presentation design and visual  
+communication**, creating clear and engaging  
+presentations that communicate ideas effectively.
 
 **2nd-year B.Tech CSE (AI & ML) student @ Jain University**
 
 <br clear="right">
 
+<br>
 <br>
 
 ---
