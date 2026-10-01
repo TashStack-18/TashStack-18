@@ -13,10 +13,10 @@
 <br>
 
 <!-- ========================================================= -->
-<!--                      ABOUT ME                             -->
+<!--                       ABOUT ME                            -->
 <!-- ========================================================= -->
 
-<table>
+<table width="100%">
 <tr>
 
 <td width="65%" valign="middle">
@@ -49,12 +49,12 @@ Currently learning, experimenting, building, and trying to make every project a 
 ---
 
 <!-- ========================================================= -->
-<!--                      TECH STACK                           -->
+<!--                       TECH STACK                          -->
 <!-- ========================================================= -->
 
 ## 💻 Tech Stack
 
-<table align="center">
+<table width="100%">
 
 <tr>
 
@@ -148,45 +148,45 @@ A personal AI journaling project created for the **Build with APAC GDG Challenge
 ---
 
 <!-- ========================================================= -->
-<!--                   HACKATHONS                              -->
+<!--                  HACKATHONS & EXPERIENCES                  -->
 <!-- ========================================================= -->
 
 ## 🏆 Hackathons & Experiences
 
-<table align="center">
+<table width="100%">
 
 <tr>
-<th></th>
-<th>Experience</th>
+<th width="10%"></th>
+<th align="left">Experience</th>
 </tr>
 
 <tr>
-<td>🏆</td>
+<td align="center">🏆</td>
 <td><b>Smart India Hackathon</b></td>
 </tr>
 
 <tr>
-<td>🤖</td>
+<td align="center">🤖</td>
 <td><b>IBM Bob Hackathon</b></td>
 </tr>
 
 <tr>
-<td>🤖</td>
+<td align="center">🤖</td>
 <td><b>IBM Bob 2.0 Hackathon</b></td>
 </tr>
 
 <tr>
-<td>💡</td>
+<td align="center">💡</td>
 <td><b>Vivekananda Innovation Hackathon 2026</b></td>
 </tr>
 
 <tr>
-<td>💡</td>
+<td align="center">💡</td>
 <td><b>Vibeathon</b></td>
 </tr>
 
 <tr>
-<td>✨</td>
+<td align="center">✨</td>
 <td><b>Build with APAC GDG Challenge</b></td>
 </tr>
 
@@ -195,7 +195,7 @@ A personal AI journaling project created for the **Build with APAC GDG Challenge
 ---
 
 <!-- ========================================================= -->
-<!--                    CURRENTLY LEARNING                     -->
+<!--                    CURRENTLY LEARNING                      -->
 <!-- ========================================================= -->
 
 ## 📖 Currently Learning
@@ -217,77 +217,89 @@ A personal AI journaling project created for the **Build with APAC GDG Challenge
 ---
 
 <!-- ========================================================= -->
-<!--                    GITHUB ANALYTICS                       -->
+<!--                    GITHUB ANALYTICS                        -->
 <!-- ========================================================= -->
 
 ## 📊 GitHub Analytics
 
-<p align="center">
+<table width="100%">
+
+<tr>
+
+<td width="50%" align="center">
 
 <img
   src="https://github-readme-stats.vercel.app/api?username=TashStack-18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=d946ef&icon_color=c026d3&text_color=e5e7eb"
-  height="170"
+  width="100%"
   alt="GitHub Stats"
 />
 
+</td>
+
+<td width="50%" align="center">
+
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=TashStack-18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=d946ef&text_color=e5e7eb"
-  height="170"
+  width="100%"
   alt="Top Languages"
 />
 
-</p>
+</td>
+
+</tr>
+
+</table>
 
 ---
 
 <!-- ========================================================= -->
-<!--                  CONTRIBUTION SNAKE                       -->
+<!--                  CONTRIBUTION SNAKE                        -->
 <!-- ========================================================= -->
 
 ## 🐍 Contribution Journey
 
 <p align="center">
 
-  <picture>
+<picture>
 
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/TashStack-18/TashStack-18/output/github-snake-dark.svg"
-    />
+<source
+  media="(prefers-color-scheme: dark)"
+  srcset="https://raw.githubusercontent.com/TashStack-18/TashStack-18/output/github-snake-dark.svg"
+/>
 
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/TashStack-18/TashStack-18/output/github-snake.svg"
-    />
+<source
+  media="(prefers-color-scheme: light)"
+  srcset="https://raw.githubusercontent.com/TashStack-18/TashStack-18/output/github-snake.svg"
+/>
 
-    <img
-      src="https://raw.githubusercontent.com/TashStack-18/TashStack-18/output/github-snake.svg"
-      alt="GitHub Contribution Snake"
-      width="95%"
-    />
+<img
+  src="https://raw.githubusercontent.com/TashStack-18/TashStack-18/output/github-snake.svg"
+  alt="GitHub Contribution Snake"
+  width="95%"
+/>
 
-  </picture>
+</picture>
 
 </p>
 
 ---
 
 <!-- ========================================================= -->
-<!--                       CONNECT                             -->
+<!--                       CONNECT                              -->
 <!-- ========================================================= -->
 
 ## 🌐 Let's Connect
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="www.linkedin.com/in/tashvi-adhlkha-39a4a6381">
   <img
     src="https://img.shields.io/badge/LinkedIn-d946ef?style=for-the-badge&logo=linkedin&logoColor=white"
     alt="LinkedIn"
   />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:adhlakhatashvi@gmail.com">
   <img
     src="https://img.shields.io/badge/Email-c026d3?style=for-the-badge&logo=gmail&logoColor=white"
     alt="Email"
@@ -299,7 +311,7 @@ A personal AI journaling project created for the **Build with APAC GDG Challenge
 ---
 
 <!-- ========================================================= -->
-<!--                         FOOTER                            -->
+<!--                         FOOTER                             -->
 <!-- ========================================================= -->
 
 <p align="center">
