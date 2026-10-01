@@ -24,8 +24,6 @@ I also enjoy **presentation design and visual communication**, creating clear an
 
 <br>
 
-<br>
-
 ---
 
 <!-- ================= TECH STACK ================= -->
