@@ -108,35 +108,50 @@ Currently learning, experimenting, building, and trying to make every project a 
 
 ## 🚀 Things I've Built
 
-### 🧭 Dishaara
+<table width="100%" cellspacing="0" cellpadding="12">
 
-**AI-powered tourism platform** designed to make travel safer, smarter, and more personalized.
+<tr>
+<th width="25%" align="left">Project</th>
+<th align="left">Description</th>
+</tr>
 
-`AI` `Tourism` `Safety` `Hackathon`
+<tr>
+<td><b>🧭 Dishaara</b></td>
+<td>
+<b>AI-powered tourism platform</b> designed to make travel safer, smarter, and more personalized.
+<br><br>
+<code>AI</code> <code>Tourism</code> <code>Safety</code> <code>Hackathon</code>
+</td>
+</tr>
 
----
+<tr>
+<td><b>📚 Nexora</b></td>
+<td>
+<b>AI-powered learning platform</b> focused on adaptive and personalized learning experiences.
+<br><br>
+<code>AI</code> <code>Education</code> <code>LLMs</code>
+</td>
+</tr>
 
-### 📚 Nexora
+<tr>
+<td><b>🤖 ChangeRehearsal</b></td>
+<td>
+An <b>IBM Bob Hackathon</b> project exploring AI-assisted development and creative problem solving.
+<br><br>
+<code>AI</code> <code>IBM Bob</code> <code>Hackathon</code>
+</td>
+</tr>
 
-**AI-powered learning platform** focused on adaptive and personalized learning experiences.
+<tr>
+<td><b>✨ Personal Gemini Journal</b></td>
+<td>
+A personal AI journaling project created for the <b>Build with APAC GDG Challenge</b>.
+<br><br>
+<code>Gemini</code> <code>AI</code> <code>GDG</code>
+</td>
+</tr>
 
-`AI` `Education` `LLMs`
-
----
-
-### 🤖 ChangeRehearsal
-
-An **IBM Bob Hackathon** project exploring AI-assisted development and creative problem solving.
-
-`AI` `IBM Bob` `Hackathon`
-
----
-
-### ✨ Personal Gemini Journal
-
-A personal AI journaling project created for the **Build with APAC GDG Challenge**.
-
-`Gemini` `AI` `GDG`
+</table>
 
 ---
 
