@@ -54,13 +54,13 @@ I also enjoy **creating presentations, designing PPTs, and communicating ideas v
 
 ## 🛠️ Tech Stack
 
+## 🛠️ Tech Stack
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,c,git,github,vscode,nextjs,nestjs&theme=dark" />
 </p>
 
-**AI / ML:** Gemini · Claude · Perplexity · Generative AI · RAG · Prompt Engineering
-
-**Tools:** Git · GitHub · VS Code · Google Colab · Antigravity IDE · Cursor
+**Technologies:** Python · Java · C · Git · GitHub · VS Code · Next.js · NestJS · Gemini · Claude · Perplexity · Generative AI · RAG · Prompt Engineering · Google Colab · Canva · Antigravity IDE · Cursor
 
 <!-- ========================================================= -->
 <!--                        PROJECTS                            -->
@@ -218,11 +218,7 @@ alt="Most Used Languages"
 
 <td width="34%" align="center">
 
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=TashStack-18&theme=github-compact&hide_border=true"
-width="100%"
-alt="GitHub Activity Graph"
-/>
+
 
 </td>
 
